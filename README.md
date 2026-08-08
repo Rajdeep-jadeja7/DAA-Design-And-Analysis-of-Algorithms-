@@ -5,4 +5,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Rajdeep-jadeja7/DAA-Design-And-Analysis-of-Algorithms-/tree/master/0007-reverse-integer) |
+| [0202-happy-number](https://github.com/Rajdeep-jadeja7/DAA-Design-And-Analysis-of-Algorithms-/tree/master/0202-happy-number) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Rajdeep-jadeja7/DAA-Design-And-Analysis-of-Algorithms-/tree/master/0202-happy-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Rajdeep-jadeja7/DAA-Design-And-Analysis-of-Algorithms-/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Rajdeep-jadeja7/DAA-Design-And-Analysis-of-Algorithms-/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
