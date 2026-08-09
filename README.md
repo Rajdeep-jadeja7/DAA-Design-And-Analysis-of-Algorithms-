@@ -23,10 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Rajdeep-jadeja7/DAA-Design-And-Analysis-of-Algorithms-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rajdeep-jadeja7/DAA-Design-And-Analysis-of-Algorithms-/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Rajdeep-jadeja7/DAA-Design-And-Analysis-of-Algorithms-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rajdeep-jadeja7/DAA-Design-And-Analysis-of-Algorithms-/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
