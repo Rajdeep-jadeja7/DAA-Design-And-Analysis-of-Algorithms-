@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Rajdeep-jadeja7/DAA-Design-And-Analysis-of-Algorithms-/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Rajdeep-jadeja7/DAA-Design-And-Analysis-of-Algorithms-/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rajdeep-jadeja7/DAA-Design-And-Analysis-of-Algorithms-/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Floyd's Cycle Finding Algorithm
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rajdeep-jadeja7/DAA-Design-And-Analysis-of-Algorithms-/tree/master/0350-intersection-of-two-arrays-ii) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Rajdeep-jadeja7/DAA-Design-And-Analysis-of-Algorithms-/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
