@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Rajdeep-jadeja7/DAA-Design-And-Analysis-of-Algorithms-/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Rajdeep-jadeja7/DAA-Design-And-Analysis-of-Algorithms-/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rajdeep-jadeja7/DAA-Design-And-Analysis-of-Algorithms-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Rajdeep-jadeja7/DAA-Design-And-Analysis-of-Algorithms-/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
 |  |
 | ------- |
@@ -42,4 +43,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Rajdeep-jadeja7/DAA-Design-And-Analysis-of-Algorithms-/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Rajdeep-jadeja7/DAA-Design-And-Analysis-of-Algorithms-/tree/master/0242-valid-anagram) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Rajdeep-jadeja7/DAA-Design-And-Analysis-of-Algorithms-/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+## Counting
+|  |
+| ------- |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Rajdeep-jadeja7/DAA-Design-And-Analysis-of-Algorithms-/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 <!---LeetCode Topics End-->
