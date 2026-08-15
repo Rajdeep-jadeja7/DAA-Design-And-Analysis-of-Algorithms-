@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Rajdeep-jadeja7/DAA-Design-And-Analysis-of-Algorithms-/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Rajdeep-jadeja7/DAA-Design-And-Analysis-of-Algorithms-/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rajdeep-jadeja7/DAA-Design-And-Analysis-of-Algorithms-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Rajdeep-jadeja7/DAA-Design-And-Analysis-of-Algorithms-/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Rajdeep-jadeja7/DAA-Design-And-Analysis-of-Algorithms-/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Rajdeep-jadeja7/DAA-Design-And-Analysis-of-Algorithms-/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3945-digit-frequency-score](https://github.com/Rajdeep-jadeja7/DAA-Design-And-Analysis-of-Algorithms-/tree/master/3945-digit-frequency-score) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rajdeep-jadeja7/DAA-Design-And-Analysis-of-Algorithms-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rajdeep-jadeja7/DAA-Design-And-Analysis-of-Algorithms-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Rajdeep-jadeja7/DAA-Design-And-Analysis-of-Algorithms-/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Rajdeep-jadeja7/DAA-Design-And-Analysis-of-Algorithms-/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Binary Search
 |  |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Rajdeep-jadeja7/DAA-Design-And-Analysis-of-Algorithms-/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Rajdeep-jadeja7/DAA-Design-And-Analysis-of-Algorithms-/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Rajdeep-jadeja7/DAA-Design-And-Analysis-of-Algorithms-/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 <!---LeetCode Topics End-->
