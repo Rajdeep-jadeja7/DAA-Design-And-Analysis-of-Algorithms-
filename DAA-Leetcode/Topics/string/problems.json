@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "string",
+    "name": "String"
+  },
+  "updatedAt": "2026-08-18T17:53:33.703Z",
+  "problems": [
+    {
+      "frontendId": "389",
+      "title": "Find the Difference",
+      "slug": "find-the-difference",
+      "problemName": "0389-find-the-difference",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-difference/",
+      "folderPath": "DAA-Leetcode/0389-find-the-difference/",
+      "readmePath": "DAA-Leetcode/0389-find-the-difference/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0389-find-the-difference.py",
+          "path": "DAA-Leetcode/0389-find-the-difference/0389-find-the-difference.py",
+          "sha": "c74ecf55d78b494fc1a8dbdee210af6f42d97ebb",
+          "lastSyncedAt": "2026-08-18T17:53:33.703Z"
+        }
+      ]
+    }
+  ]
+}
