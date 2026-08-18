@@ -4,6 +4,27 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-08-18T17:53:08.144Z",
-  "problems": []
+  "updatedAt": "2026-08-18T17:58:44.604Z",
+  "problems": [
+    {
+      "frontendId": "167",
+      "title": "Two Sum II - Input Array Is Sorted",
+      "slug": "two-sum-ii-input-array-is-sorted",
+      "problemName": "0167-two-sum-ii-input-array-is-sorted",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/",
+      "folderPath": "DAA-Leetcode/0167-two-sum-ii-input-array-is-sorted/",
+      "readmePath": "DAA-Leetcode/0167-two-sum-ii-input-array-is-sorted/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0167-two-sum-ii-input-array-is-sorted.py",
+          "path": "DAA-Leetcode/0167-two-sum-ii-input-array-is-sorted/0167-two-sum-ii-input-array-is-sorted.py",
+          "sha": "4d2dac6f738dae9e4fdbea23ebea82dbe6e77437",
+          "lastSyncedAt": "2026-08-18T17:58:44.604Z"
+        }
+      ]
+    }
+  ]
 }
