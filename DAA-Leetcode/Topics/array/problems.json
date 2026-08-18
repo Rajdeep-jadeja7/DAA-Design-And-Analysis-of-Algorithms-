@@ -4,6 +4,27 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-18T17:53:08.144Z",
-  "problems": []
+  "updatedAt": "2026-08-18T17:53:24.832Z",
+  "problems": [
+    {
+      "frontendId": "3471",
+      "title": "Find the Largest Almost Missing Integer",
+      "slug": "find-the-largest-almost-missing-integer",
+      "problemName": "3471-find-the-largest-almost-missing-integer",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-largest-almost-missing-integer/",
+      "folderPath": "DAA-Leetcode/3471-find-the-largest-almost-missing-integer/",
+      "readmePath": "DAA-Leetcode/3471-find-the-largest-almost-missing-integer/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3471-find-the-largest-almost-missing-integer.py",
+          "path": "DAA-Leetcode/3471-find-the-largest-almost-missing-integer/3471-find-the-largest-almost-missing-integer.py",
+          "sha": "2244b3af3094bb07de3cb7f8a3dfc99eebf0ed85",
+          "lastSyncedAt": "2026-08-18T17:53:24.832Z"
+        }
+      ]
+    }
+  ]
 }
