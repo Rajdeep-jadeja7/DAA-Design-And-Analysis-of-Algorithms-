@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "math",
+    "name": "Math"
+  },
+  "updatedAt": "2026-08-19T13:45:17.475Z",
+  "problems": [
+    {
+      "frontendId": "9",
+      "title": "Palindrome Number",
+      "slug": "palindrome-number",
+      "problemName": "0009-palindrome-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/palindrome-number/",
+      "folderPath": "DAA-Leetcode/0009-palindrome-number/",
+      "readmePath": "DAA-Leetcode/0009-palindrome-number/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0009-palindrome-number.py",
+          "path": "DAA-Leetcode/0009-palindrome-number/0009-palindrome-number.py",
+          "sha": "c89cb5227934db4aee239756a67117b87814c127",
+          "lastSyncedAt": "2026-08-19T13:45:17.475Z"
+        }
+      ]
+    }
+  ]
+}
