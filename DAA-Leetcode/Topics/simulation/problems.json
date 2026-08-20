@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "simulation",
+    "name": "Simulation"
+  },
+  "updatedAt": "2026-08-20T14:17:20.098Z",
+  "problems": [
+    {
+      "frontendId": "3069",
+      "title": "Distribute Elements Into Two Arrays I",
+      "slug": "distribute-elements-into-two-arrays-i",
+      "problemName": "3069-distribute-elements-into-two-arrays-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/distribute-elements-into-two-arrays-i/",
+      "folderPath": "DAA-Leetcode/3069-distribute-elements-into-two-arrays-i/",
+      "readmePath": "DAA-Leetcode/3069-distribute-elements-into-two-arrays-i/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3069-distribute-elements-into-two-arrays-i.py",
+          "path": "DAA-Leetcode/3069-distribute-elements-into-two-arrays-i/3069-distribute-elements-into-two-arrays-i.py",
+          "sha": "76bdca2ea79d8f7825fc6ff0c44bce3194f96a33",
+          "lastSyncedAt": "2026-08-20T14:17:20.098Z"
+        }
+      ]
+    }
+  ]
+}
