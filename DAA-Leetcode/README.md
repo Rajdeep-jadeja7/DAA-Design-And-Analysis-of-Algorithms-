@@ -5,34 +5,36 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 3 | 2 | 1 | 0 |
+| 4 | 3 | 1 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 2 days | 2 |
+| 3 days | 3 days | 3 |
 
 | Date | Problems |
 | --- | ---: |
 | 2026-08-18 | 2 |
 | 2026-08-19 | 1 |
+| 2026-08-20 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 2 | 67% |
-| Binary Search | 1 | 33% |
-| Hash Table | 1 | 33% |
-| Math | 1 | 33% |
-| Two Pointers | 1 | 33% |
+| Array | 3 | 75% |
+| Binary Search | 1 | 25% |
+| Hash Table | 1 | 25% |
+| Math | 1 | 25% |
+| Simulation | 1 | 25% |
+| Two Pointers | 1 | 25% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 3 |
+| [Array](Topics/array/) | 4 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 1 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
@@ -45,6 +47,7 @@ Contains topicwise list of solved problems.
 | [Linked List](Topics/linked-list/) | 0 |
 | [Math](Topics/math/) | 1 |
 | [Matrix](Topics/matrix/) | 0 |
+| [Simulation](Topics/simulation/) | 1 |
 | [Sorting](Topics/sorting/) | 0 |
 | [Stack](Topics/stack/) | 0 |
 | [String](Topics/string/) | 1 |
