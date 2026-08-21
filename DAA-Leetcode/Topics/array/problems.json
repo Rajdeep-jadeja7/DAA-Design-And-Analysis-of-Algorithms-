@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-20T14:17:20.098Z",
+  "updatedAt": "2026-08-21T08:03:32.258Z",
   "problems": [
     {
       "frontendId": "1",
@@ -23,6 +23,26 @@
           "path": "DAA-Leetcode/0001-two-sum/0001-two-sum.py",
           "sha": "6e57d05afc154fef93d7393611a7798f3b753ed4",
           "lastSyncedAt": "2026-08-18T17:57:22.887Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "162",
+      "title": "Find Peak Element",
+      "slug": "find-peak-element",
+      "problemName": "0162-find-peak-element",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-peak-element/",
+      "folderPath": "DAA-Leetcode/0162-find-peak-element/",
+      "readmePath": "DAA-Leetcode/0162-find-peak-element/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0162-find-peak-element.py",
+          "path": "DAA-Leetcode/0162-find-peak-element/0162-find-peak-element.py",
+          "sha": "785fe8509eefd1ab7024a920bad52d3a3707901e",
+          "lastSyncedAt": "2026-08-21T08:03:32.258Z"
         }
       ]
     },
