@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-23T15:20:02.205Z",
+  "updatedAt": "2026-08-23T15:20:15.435Z",
   "problems": [
     {
       "frontendId": "1",
@@ -42,7 +42,7 @@
           "filename": "0026-remove-duplicates-from-sorted-array.py",
           "path": "DAA-Leetcode/0026-remove-duplicates-from-sorted-array/0026-remove-duplicates-from-sorted-array.py",
           "sha": "a6fcc2a19d4d84c2d93dcb73243664ffb86bb1d2",
-          "lastSyncedAt": "2026-08-23T15:20:02.205Z"
+          "lastSyncedAt": "2026-08-23T15:20:15.435Z"
         }
       ]
     },
