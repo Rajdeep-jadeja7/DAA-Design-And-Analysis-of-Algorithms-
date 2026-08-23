@@ -4,8 +4,28 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-08-18T17:58:44.604Z",
+  "updatedAt": "2026-08-23T15:20:02.205Z",
   "problems": [
+    {
+      "frontendId": "26",
+      "title": "Remove Duplicates from Sorted Array",
+      "slug": "remove-duplicates-from-sorted-array",
+      "problemName": "0026-remove-duplicates-from-sorted-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
+      "folderPath": "DAA-Leetcode/0026-remove-duplicates-from-sorted-array/",
+      "readmePath": "DAA-Leetcode/0026-remove-duplicates-from-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0026-remove-duplicates-from-sorted-array.py",
+          "path": "DAA-Leetcode/0026-remove-duplicates-from-sorted-array/0026-remove-duplicates-from-sorted-array.py",
+          "sha": "a6fcc2a19d4d84c2d93dcb73243664ffb86bb1d2",
+          "lastSyncedAt": "2026-08-23T15:20:02.205Z"
+        }
+      ]
+    },
     {
       "frontendId": "167",
       "title": "Two Sum II - Input Array Is Sorted",
