@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-23T15:20:19.096Z",
+  "updatedAt": "2026-08-24T09:24:14.385Z",
   "problems": [
     {
       "frontendId": "1",
@@ -23,6 +23,26 @@
           "path": "DAA-Leetcode/0001-two-sum/0001-two-sum.py",
           "sha": "6e57d05afc154fef93d7393611a7798f3b753ed4",
           "lastSyncedAt": "2026-08-18T17:57:22.887Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "14",
+      "title": "Longest Common Prefix",
+      "slug": "longest-common-prefix",
+      "problemName": "0014-longest-common-prefix",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-common-prefix/",
+      "folderPath": "DAA-Leetcode/0014-longest-common-prefix/",
+      "readmePath": "DAA-Leetcode/0014-longest-common-prefix/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0014-longest-common-prefix.py",
+          "path": "DAA-Leetcode/0014-longest-common-prefix/0014-longest-common-prefix.py",
+          "sha": "c75370f1ced7dff574c4aed10cb021c1942361a1",
+          "lastSyncedAt": "2026-08-24T09:24:14.385Z"
         }
       ]
     },
