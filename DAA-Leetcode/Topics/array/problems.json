@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-24T09:24:14.385Z",
+  "updatedAt": "2026-08-24T09:25:03.531Z",
   "problems": [
     {
       "frontendId": "1",
@@ -42,7 +42,7 @@
           "filename": "0014-longest-common-prefix.py",
           "path": "DAA-Leetcode/0014-longest-common-prefix/0014-longest-common-prefix.py",
           "sha": "c75370f1ced7dff574c4aed10cb021c1942361a1",
-          "lastSyncedAt": "2026-08-24T09:24:14.385Z"
+          "lastSyncedAt": "2026-08-24T09:25:03.531Z"
         }
       ]
     },
