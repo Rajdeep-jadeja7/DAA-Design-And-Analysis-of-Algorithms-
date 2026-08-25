@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-08-25T05:15:56.398Z",
+  "updatedAt": "2026-08-25T05:15:58.747Z",
   "problems": [
     {
       "frontendId": "26",
@@ -42,7 +42,7 @@
           "filename": "0028-find-the-index-of-the-first-occurrence-in-a-string.py",
           "path": "DAA-Leetcode/0028-find-the-index-of-the-first-occurrence-in-a-string/0028-find-the-index-of-the-first-occurrence-in-a-string.py",
           "sha": "3f627ab5b95c8ab53d248cdea5d6867751d881df",
-          "lastSyncedAt": "2026-08-25T05:15:56.398Z"
+          "lastSyncedAt": "2026-08-25T05:15:58.747Z"
         }
       ]
     },
