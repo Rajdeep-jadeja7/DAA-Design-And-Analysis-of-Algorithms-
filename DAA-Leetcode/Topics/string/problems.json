@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-25T05:15:58.747Z",
+  "updatedAt": "2026-08-26T06:46:27.558Z",
   "problems": [
     {
       "frontendId": "14",
@@ -43,6 +43,26 @@
           "path": "DAA-Leetcode/0028-find-the-index-of-the-first-occurrence-in-a-string/0028-find-the-index-of-the-first-occurrence-in-a-string.py",
           "sha": "3f627ab5b95c8ab53d248cdea5d6867751d881df",
           "lastSyncedAt": "2026-08-25T05:15:58.747Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "387",
+      "title": "First Unique Character in a String",
+      "slug": "first-unique-character-in-a-string",
+      "problemName": "0387-first-unique-character-in-a-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/first-unique-character-in-a-string/",
+      "folderPath": "DAA-Leetcode/0387-first-unique-character-in-a-string/",
+      "readmePath": "DAA-Leetcode/0387-first-unique-character-in-a-string/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0387-first-unique-character-in-a-string.py",
+          "path": "DAA-Leetcode/0387-first-unique-character-in-a-string/0387-first-unique-character-in-a-string.py",
+          "sha": "074d4ea4c5621cd6f421d98e80244bf2eaa05077",
+          "lastSyncedAt": "2026-08-26T06:46:27.558Z"
         }
       ]
     },
