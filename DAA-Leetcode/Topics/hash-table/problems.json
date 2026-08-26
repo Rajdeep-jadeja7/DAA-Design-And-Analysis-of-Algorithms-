@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-08-26T06:46:27.558Z",
+  "updatedAt": "2026-08-26T06:46:29.537Z",
   "problems": [
     {
       "frontendId": "1",
@@ -42,7 +42,7 @@
           "filename": "0387-first-unique-character-in-a-string.py",
           "path": "DAA-Leetcode/0387-first-unique-character-in-a-string/0387-first-unique-character-in-a-string.py",
           "sha": "074d4ea4c5621cd6f421d98e80244bf2eaa05077",
-          "lastSyncedAt": "2026-08-26T06:46:27.558Z"
+          "lastSyncedAt": "2026-08-26T06:46:29.537Z"
         }
       ]
     },
