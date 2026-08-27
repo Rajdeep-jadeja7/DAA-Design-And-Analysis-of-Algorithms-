@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-08-27T15:22:01.841Z",
+  "updatedAt": "2026-08-27T15:22:19.099Z",
   "problems": [
     {
       "frontendId": "26",
@@ -62,7 +62,7 @@
           "filename": "0151-reverse-words-in-a-string.py",
           "path": "DAA-Leetcode/0151-reverse-words-in-a-string/0151-reverse-words-in-a-string.py",
           "sha": "de6e066ef532891cd1bd81c9a8fdf71a08966c2c",
-          "lastSyncedAt": "2026-08-27T15:22:01.841Z"
+          "lastSyncedAt": "2026-08-27T15:22:19.099Z"
         }
       ]
     },
