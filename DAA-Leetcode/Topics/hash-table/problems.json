@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-08-26T06:46:29.537Z",
+  "updatedAt": "2026-08-28T08:19:59.986Z",
   "problems": [
     {
       "frontendId": "1",
@@ -63,6 +63,26 @@
           "path": "DAA-Leetcode/0389-find-the-difference/0389-find-the-difference.py",
           "sha": "c74ecf55d78b494fc1a8dbdee210af6f42d97ebb",
           "lastSyncedAt": "2026-08-18T17:53:33.703Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "884",
+      "title": "Uncommon Words from Two Sentences",
+      "slug": "uncommon-words-from-two-sentences",
+      "problemName": "0884-uncommon-words-from-two-sentences",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/uncommon-words-from-two-sentences/",
+      "folderPath": "DAA-Leetcode/0884-uncommon-words-from-two-sentences/",
+      "readmePath": "DAA-Leetcode/0884-uncommon-words-from-two-sentences/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0884-uncommon-words-from-two-sentences.py",
+          "path": "DAA-Leetcode/0884-uncommon-words-from-two-sentences/0884-uncommon-words-from-two-sentences.py",
+          "sha": "883e69401c0444281a67632412d32fbe8925bc7e",
+          "lastSyncedAt": "2026-08-28T08:19:59.986Z"
         }
       ]
     },
