@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-28T08:20:50.788Z",
+  "updatedAt": "2026-08-29T10:21:27.687Z",
   "problems": [
     {
       "frontendId": "14",
@@ -103,6 +103,26 @@
           "path": "DAA-Leetcode/0389-find-the-difference/0389-find-the-difference.py",
           "sha": "c74ecf55d78b494fc1a8dbdee210af6f42d97ebb",
           "lastSyncedAt": "2026-08-18T17:53:33.703Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "451",
+      "title": "Sort Characters By Frequency",
+      "slug": "sort-characters-by-frequency",
+      "problemName": "0451-sort-characters-by-frequency",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-characters-by-frequency/",
+      "folderPath": "DAA-Leetcode/0451-sort-characters-by-frequency/",
+      "readmePath": "DAA-Leetcode/0451-sort-characters-by-frequency/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0451-sort-characters-by-frequency.py",
+          "path": "DAA-Leetcode/0451-sort-characters-by-frequency/0451-sort-characters-by-frequency.py",
+          "sha": "968456e42fbf267fe538c9d7f82f37c32ba5e089",
+          "lastSyncedAt": "2026-08-29T10:21:27.687Z"
         }
       ]
     },
