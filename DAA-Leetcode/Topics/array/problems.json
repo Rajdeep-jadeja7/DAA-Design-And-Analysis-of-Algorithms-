@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-24T09:25:05.045Z",
+  "updatedAt": "2026-08-30T06:43:30.049Z",
   "problems": [
     {
       "frontendId": "1",
@@ -103,6 +103,26 @@
           "path": "DAA-Leetcode/0167-two-sum-ii-input-array-is-sorted/0167-two-sum-ii-input-array-is-sorted.py",
           "sha": "4d2dac6f738dae9e4fdbea23ebea82dbe6e77437",
           "lastSyncedAt": "2026-08-18T17:58:44.604Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "599",
+      "title": "Minimum Index Sum of Two Lists",
+      "slug": "minimum-index-sum-of-two-lists",
+      "problemName": "0599-minimum-index-sum-of-two-lists",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-index-sum-of-two-lists/",
+      "folderPath": "DAA-Leetcode/0599-minimum-index-sum-of-two-lists/",
+      "readmePath": "DAA-Leetcode/0599-minimum-index-sum-of-two-lists/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0599-minimum-index-sum-of-two-lists.py",
+          "path": "DAA-Leetcode/0599-minimum-index-sum-of-two-lists/0599-minimum-index-sum-of-two-lists.py",
+          "sha": "40743724a7733e298e9129c59a074a4252ba4f7b",
+          "lastSyncedAt": "2026-08-30T06:43:30.049Z"
         }
       ]
     },
