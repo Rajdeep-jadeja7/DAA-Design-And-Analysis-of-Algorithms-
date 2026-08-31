@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-30T06:43:30.049Z",
+  "updatedAt": "2026-08-31T04:29:02.811Z",
   "problems": [
     {
       "frontendId": "14",
@@ -143,6 +143,26 @@
           "path": "DAA-Leetcode/0599-minimum-index-sum-of-two-lists/0599-minimum-index-sum-of-two-lists.py",
           "sha": "40743724a7733e298e9129c59a074a4252ba4f7b",
           "lastSyncedAt": "2026-08-30T06:43:30.049Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "771",
+      "title": "Jewels and Stones",
+      "slug": "jewels-and-stones",
+      "problemName": "0771-jewels-and-stones",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/jewels-and-stones/",
+      "folderPath": "DAA-Leetcode/0771-jewels-and-stones/",
+      "readmePath": "DAA-Leetcode/0771-jewels-and-stones/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0771-jewels-and-stones.py",
+          "path": "DAA-Leetcode/0771-jewels-and-stones/0771-jewels-and-stones.py",
+          "sha": "a15ee75b7d9db122678e37fd9b83c2a2cb6d12d8",
+          "lastSyncedAt": "2026-08-31T04:29:02.811Z"
         }
       ]
     },
