@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-08-31T04:29:02.811Z",
+  "updatedAt": "2026-09-01T04:41:46.010Z",
   "problems": [
     {
       "frontendId": "1",
@@ -163,6 +163,26 @@
           "path": "DAA-Leetcode/3471-find-the-largest-almost-missing-integer/3471-find-the-largest-almost-missing-integer.py",
           "sha": "2244b3af3094bb07de3cb7f8a3dfc99eebf0ed85",
           "lastSyncedAt": "2026-08-18T17:53:24.832Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3760",
+      "title": "Maximum Substrings With Distinct Start",
+      "slug": "maximum-substrings-with-distinct-start",
+      "problemName": "3760-maximum-substrings-with-distinct-start",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-substrings-with-distinct-start/",
+      "folderPath": "DAA-Leetcode/3760-maximum-substrings-with-distinct-start/",
+      "readmePath": "DAA-Leetcode/3760-maximum-substrings-with-distinct-start/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3760-maximum-substrings-with-distinct-start.py",
+          "path": "DAA-Leetcode/3760-maximum-substrings-with-distinct-start/3760-maximum-substrings-with-distinct-start.py",
+          "sha": "c8c7e7befb1ac57542645216ca5ac8b068f59e75",
+          "lastSyncedAt": "2026-09-01T04:41:46.010Z"
         }
       ]
     }
