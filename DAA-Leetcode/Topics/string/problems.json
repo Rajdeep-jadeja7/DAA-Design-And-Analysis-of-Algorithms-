@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-31T04:29:02.811Z",
+  "updatedAt": "2026-09-01T04:41:46.010Z",
   "problems": [
     {
       "frontendId": "14",
@@ -183,6 +183,26 @@
           "path": "DAA-Leetcode/0884-uncommon-words-from-two-sentences/0884-uncommon-words-from-two-sentences.py",
           "sha": "883e69401c0444281a67632412d32fbe8925bc7e",
           "lastSyncedAt": "2026-08-28T08:20:50.788Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3760",
+      "title": "Maximum Substrings With Distinct Start",
+      "slug": "maximum-substrings-with-distinct-start",
+      "problemName": "3760-maximum-substrings-with-distinct-start",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-substrings-with-distinct-start/",
+      "folderPath": "DAA-Leetcode/3760-maximum-substrings-with-distinct-start/",
+      "readmePath": "DAA-Leetcode/3760-maximum-substrings-with-distinct-start/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3760-maximum-substrings-with-distinct-start.py",
+          "path": "DAA-Leetcode/3760-maximum-substrings-with-distinct-start/3760-maximum-substrings-with-distinct-start.py",
+          "sha": "c8c7e7befb1ac57542645216ca5ac8b068f59e75",
+          "lastSyncedAt": "2026-09-01T04:41:46.010Z"
         }
       ]
     }
