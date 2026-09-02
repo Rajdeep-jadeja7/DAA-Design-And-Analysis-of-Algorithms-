@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-30T06:43:30.049Z",
+  "updatedAt": "2026-09-02T04:47:13.599Z",
   "problems": [
     {
       "frontendId": "1",
@@ -163,6 +163,26 @@
           "path": "DAA-Leetcode/3471-find-the-largest-almost-missing-integer/3471-find-the-largest-almost-missing-integer.py",
           "sha": "2244b3af3094bb07de3cb7f8a3dfc99eebf0ed85",
           "lastSyncedAt": "2026-08-18T17:53:24.832Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3875",
+      "title": "Construct Uniform Parity Array I",
+      "slug": "construct-uniform-parity-array-i",
+      "problemName": "3875-construct-uniform-parity-array-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/construct-uniform-parity-array-i/",
+      "folderPath": "DAA-Leetcode/3875-construct-uniform-parity-array-i/",
+      "readmePath": "DAA-Leetcode/3875-construct-uniform-parity-array-i/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3875-construct-uniform-parity-array-i.py",
+          "path": "DAA-Leetcode/3875-construct-uniform-parity-array-i/3875-construct-uniform-parity-array-i.py",
+          "sha": "c9433a95987405b268f46c4991fa1dc9746c6dfb",
+          "lastSyncedAt": "2026-09-02T04:47:13.599Z"
         }
       ]
     }
