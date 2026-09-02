@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-08-22T04:34:11.965Z",
+  "updatedAt": "2026-09-02T04:47:13.599Z",
   "problems": [
     {
       "frontendId": "9",
@@ -43,6 +43,26 @@
           "path": "DAA-Leetcode/3622-check-divisibility-by-digit-sum-and-product/3622-check-divisibility-by-digit-sum-and-product.py",
           "sha": "1a6900c5e1fb1118f7c7109aca92a714896e1f16",
           "lastSyncedAt": "2026-08-22T04:34:11.965Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3875",
+      "title": "Construct Uniform Parity Array I",
+      "slug": "construct-uniform-parity-array-i",
+      "problemName": "3875-construct-uniform-parity-array-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/construct-uniform-parity-array-i/",
+      "folderPath": "DAA-Leetcode/3875-construct-uniform-parity-array-i/",
+      "readmePath": "DAA-Leetcode/3875-construct-uniform-parity-array-i/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3875-construct-uniform-parity-array-i.py",
+          "path": "DAA-Leetcode/3875-construct-uniform-parity-array-i/3875-construct-uniform-parity-array-i.py",
+          "sha": "c9433a95987405b268f46c4991fa1dc9746c6dfb",
+          "lastSyncedAt": "2026-09-02T04:47:13.599Z"
         }
       ]
     }
