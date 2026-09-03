@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-08-27T15:22:19.099Z",
+  "updatedAt": "2026-09-03T15:10:14.267Z",
   "problems": [
     {
       "frontendId": "26",
@@ -83,6 +83,26 @@
           "path": "DAA-Leetcode/0167-two-sum-ii-input-array-is-sorted/0167-two-sum-ii-input-array-is-sorted.py",
           "sha": "4d2dac6f738dae9e4fdbea23ebea82dbe6e77437",
           "lastSyncedAt": "2026-08-18T17:58:44.604Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "876",
+      "title": "Middle of the Linked List",
+      "slug": "middle-of-the-linked-list",
+      "problemName": "0876-middle-of-the-linked-list",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/middle-of-the-linked-list/",
+      "folderPath": "DAA-Leetcode/0876-middle-of-the-linked-list/",
+      "readmePath": "DAA-Leetcode/0876-middle-of-the-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0876-middle-of-the-linked-list.py",
+          "path": "DAA-Leetcode/0876-middle-of-the-linked-list/0876-middle-of-the-linked-list.py",
+          "sha": "aa79c15c00f9d5541e824c22f9fcb21c78c5f69a",
+          "lastSyncedAt": "2026-09-03T15:10:14.267Z"
         }
       ]
     }
