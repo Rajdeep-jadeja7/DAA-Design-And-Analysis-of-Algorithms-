@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "prefix-sum",
+    "name": "Prefix Sum"
+  },
+  "updatedAt": "2026-09-04T17:36:37.400Z",
+  "problems": [
+    {
+      "frontendId": "3903",
+      "title": "Smallest Stable Index I",
+      "slug": "smallest-stable-index-i",
+      "problemName": "3903-smallest-stable-index-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-stable-index-i/",
+      "folderPath": "DAA-Leetcode/3903-smallest-stable-index-i/",
+      "readmePath": "DAA-Leetcode/3903-smallest-stable-index-i/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3903-smallest-stable-index-i.py",
+          "path": "DAA-Leetcode/3903-smallest-stable-index-i/3903-smallest-stable-index-i.py",
+          "sha": "aac6bf57d675e0ff7a7dd954b58f492dfcfe836d",
+          "lastSyncedAt": "2026-09-04T17:36:37.400Z"
+        }
+      ]
+    }
+  ]
+}
