@@ -4,8 +4,28 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-09-03T15:10:14.267Z",
+  "updatedAt": "2026-09-05T12:27:58.993Z",
   "problems": [
+    {
+      "frontendId": "237",
+      "title": "Delete Node in a Linked List",
+      "slug": "delete-node-in-a-linked-list",
+      "problemName": "0237-delete-node-in-a-linked-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/delete-node-in-a-linked-list/",
+      "folderPath": "DAA-Leetcode/0237-delete-node-in-a-linked-list/",
+      "readmePath": "DAA-Leetcode/0237-delete-node-in-a-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0237-delete-node-in-a-linked-list.py",
+          "path": "DAA-Leetcode/0237-delete-node-in-a-linked-list/0237-delete-node-in-a-linked-list.py",
+          "sha": "60dcf5bc6ee8fc7fb89860d9b4c7e3b6548eb7b9",
+          "lastSyncedAt": "2026-09-05T12:27:58.993Z"
+        }
+      ]
+    },
     {
       "frontendId": "876",
       "title": "Middle of the Linked List",
