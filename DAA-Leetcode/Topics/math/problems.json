@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-02T04:47:13.599Z",
+  "updatedAt": "2026-09-06T16:49:59.331Z",
   "problems": [
     {
       "frontendId": "9",
@@ -23,6 +23,26 @@
           "path": "DAA-Leetcode/0009-palindrome-number/0009-palindrome-number.py",
           "sha": "c89cb5227934db4aee239756a67117b87814c127",
           "lastSyncedAt": "2026-08-19T13:45:21.060Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2894",
+      "title": "Divisible and Non-divisible Sums Difference",
+      "slug": "divisible-and-non-divisible-sums-difference",
+      "problemName": "2894-divisible-and-non-divisible-sums-difference",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/",
+      "folderPath": "DAA-Leetcode/2894-divisible-and-non-divisible-sums-difference/",
+      "readmePath": "DAA-Leetcode/2894-divisible-and-non-divisible-sums-difference/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2894-divisible-and-non-divisible-sums-difference.py",
+          "path": "DAA-Leetcode/2894-divisible-and-non-divisible-sums-difference/2894-divisible-and-non-divisible-sums-difference.py",
+          "sha": "616630314827d07a1bfff29a053282c715dcf9ee",
+          "lastSyncedAt": "2026-09-06T16:49:59.331Z"
         }
       ]
     },
