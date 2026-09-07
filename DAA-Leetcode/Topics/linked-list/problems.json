@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-09-07T04:39:36.319Z",
+  "updatedAt": "2026-09-07T04:57:10.758Z",
   "problems": [
     {
       "frontendId": "19",
@@ -22,7 +22,7 @@
           "filename": "0019-remove-nth-node-from-end-of-list.py",
           "path": "DAA-Leetcode/0019-remove-nth-node-from-end-of-list/0019-remove-nth-node-from-end-of-list.py",
           "sha": "c533c245e9f4b2b382e1d418a82a962fcca954c8",
-          "lastSyncedAt": "2026-09-07T04:39:36.319Z"
+          "lastSyncedAt": "2026-09-07T04:57:10.758Z"
         }
       ]
     },
