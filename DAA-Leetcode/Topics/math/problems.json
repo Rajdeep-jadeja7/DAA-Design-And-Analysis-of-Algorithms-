@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-06T16:49:59.331Z",
+  "updatedAt": "2026-09-08T02:19:49.945Z",
   "problems": [
     {
       "frontendId": "9",
@@ -63,6 +63,26 @@
           "path": "DAA-Leetcode/3622-check-divisibility-by-digit-sum-and-product/3622-check-divisibility-by-digit-sum-and-product.py",
           "sha": "1a6900c5e1fb1118f7c7109aca92a714896e1f16",
           "lastSyncedAt": "2026-08-22T04:34:11.965Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3870",
+      "title": "Count Commas in Range",
+      "slug": "count-commas-in-range",
+      "problemName": "3870-count-commas-in-range",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-commas-in-range/",
+      "folderPath": "DAA-Leetcode/3870-count-commas-in-range/",
+      "readmePath": "DAA-Leetcode/3870-count-commas-in-range/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3870-count-commas-in-range.py",
+          "path": "DAA-Leetcode/3870-count-commas-in-range/3870-count-commas-in-range.py",
+          "sha": "53f16ed4026fcfa5e3ce9f3774bb83446bfbae02",
+          "lastSyncedAt": "2026-09-08T02:19:49.945Z"
         }
       ]
     },
