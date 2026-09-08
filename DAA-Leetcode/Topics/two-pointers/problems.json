@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-08T16:06:53.025Z",
+  "updatedAt": "2026-09-08T16:30:24.279Z",
   "problems": [
     {
       "frontendId": "19",
@@ -142,7 +142,7 @@
           "filename": "2095-delete-the-middle-node-of-a-linked-list.py",
           "path": "DAA-Leetcode/2095-delete-the-middle-node-of-a-linked-list/2095-delete-the-middle-node-of-a-linked-list.py",
           "sha": "18ed67e915599706925b60e5a6ddccba27584d24",
-          "lastSyncedAt": "2026-09-08T16:06:53.025Z"
+          "lastSyncedAt": "2026-09-08T16:30:24.279Z"
         }
       ]
     }
