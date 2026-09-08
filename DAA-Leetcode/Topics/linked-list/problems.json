@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-09-08T16:30:24.279Z",
+  "updatedAt": "2026-09-08T16:58:24.933Z",
   "problems": [
     {
       "frontendId": "19",
@@ -23,6 +23,26 @@
           "path": "DAA-Leetcode/0019-remove-nth-node-from-end-of-list/0019-remove-nth-node-from-end-of-list.py",
           "sha": "c533c245e9f4b2b382e1d418a82a962fcca954c8",
           "lastSyncedAt": "2026-09-07T04:57:10.758Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "83",
+      "title": "Remove Duplicates from Sorted List",
+      "slug": "remove-duplicates-from-sorted-list",
+      "problemName": "0083-remove-duplicates-from-sorted-list",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-list/",
+      "folderPath": "DAA-Leetcode/0083-remove-duplicates-from-sorted-list/",
+      "readmePath": "DAA-Leetcode/0083-remove-duplicates-from-sorted-list/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0083-remove-duplicates-from-sorted-list.py",
+          "path": "DAA-Leetcode/0083-remove-duplicates-from-sorted-list/0083-remove-duplicates-from-sorted-list.py",
+          "sha": "b37264c6ca46b2766df41a002afdc858f7a977d6",
+          "lastSyncedAt": "2026-09-08T16:58:24.933Z"
         }
       ]
     },
