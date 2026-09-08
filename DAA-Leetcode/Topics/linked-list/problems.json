@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-09-08T16:58:24.933Z",
+  "updatedAt": "2026-09-08T16:59:06.979Z",
   "problems": [
     {
       "frontendId": "19",
@@ -42,7 +42,7 @@
           "filename": "0083-remove-duplicates-from-sorted-list.py",
           "path": "DAA-Leetcode/0083-remove-duplicates-from-sorted-list/0083-remove-duplicates-from-sorted-list.py",
           "sha": "b37264c6ca46b2766df41a002afdc858f7a977d6",
-          "lastSyncedAt": "2026-09-08T16:58:24.933Z"
+          "lastSyncedAt": "2026-09-08T16:59:06.979Z"
         }
       ]
     },
