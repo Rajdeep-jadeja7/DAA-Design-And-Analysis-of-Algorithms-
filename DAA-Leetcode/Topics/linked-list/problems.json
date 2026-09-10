@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-09-08T16:59:06.979Z",
+  "updatedAt": "2026-09-10T11:39:11.047Z",
   "problems": [
     {
       "frontendId": "19",
@@ -43,6 +43,26 @@
           "path": "DAA-Leetcode/0083-remove-duplicates-from-sorted-list/0083-remove-duplicates-from-sorted-list.py",
           "sha": "b37264c6ca46b2766df41a002afdc858f7a977d6",
           "lastSyncedAt": "2026-09-08T16:59:06.979Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "160",
+      "title": "Intersection of Two Linked Lists",
+      "slug": "intersection-of-two-linked-lists",
+      "problemName": "0160-intersection-of-two-linked-lists",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/intersection-of-two-linked-lists/",
+      "folderPath": "DAA-Leetcode/0160-intersection-of-two-linked-lists/",
+      "readmePath": "DAA-Leetcode/0160-intersection-of-two-linked-lists/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0160-intersection-of-two-linked-lists.py",
+          "path": "DAA-Leetcode/0160-intersection-of-two-linked-lists/0160-intersection-of-two-linked-lists.py",
+          "sha": "57e4ea7b54d2cfffffeb3d742e31aca98687e34c",
+          "lastSyncedAt": "2026-09-10T11:39:11.047Z"
         }
       ]
     },
