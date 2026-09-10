@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "floyds-cycle-finding-algorithm",
+    "name": "Floyd's Cycle Finding Algorithm"
+  },
+  "updatedAt": "2026-09-10T09:01:27.966Z",
+  "problems": [
+    {
+      "frontendId": "287",
+      "title": "Find the Duplicate Number",
+      "slug": "find-the-duplicate-number",
+      "problemName": "0287-find-the-duplicate-number",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-duplicate-number/",
+      "folderPath": "DAA-Leetcode/0287-find-the-duplicate-number/",
+      "readmePath": "DAA-Leetcode/0287-find-the-duplicate-number/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0287-find-the-duplicate-number.py",
+          "path": "DAA-Leetcode/0287-find-the-duplicate-number/0287-find-the-duplicate-number.py",
+          "sha": "c2603e6e3dcada7fb68a2d4f1439fb5b6a546814",
+          "lastSyncedAt": "2026-09-10T09:01:27.966Z"
+        }
+      ]
+    }
+  ]
+}
