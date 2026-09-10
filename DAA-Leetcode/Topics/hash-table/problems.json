@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-01T04:41:46.010Z",
+  "updatedAt": "2026-09-10T11:39:11.047Z",
   "problems": [
     {
       "frontendId": "1",
@@ -23,6 +23,26 @@
           "path": "DAA-Leetcode/0001-two-sum/0001-two-sum.py",
           "sha": "6e57d05afc154fef93d7393611a7798f3b753ed4",
           "lastSyncedAt": "2026-08-18T17:57:22.887Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "160",
+      "title": "Intersection of Two Linked Lists",
+      "slug": "intersection-of-two-linked-lists",
+      "problemName": "0160-intersection-of-two-linked-lists",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/intersection-of-two-linked-lists/",
+      "folderPath": "DAA-Leetcode/0160-intersection-of-two-linked-lists/",
+      "readmePath": "DAA-Leetcode/0160-intersection-of-two-linked-lists/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0160-intersection-of-two-linked-lists.py",
+          "path": "DAA-Leetcode/0160-intersection-of-two-linked-lists/0160-intersection-of-two-linked-lists.py",
+          "sha": "57e4ea7b54d2cfffffeb3d742e31aca98687e34c",
+          "lastSyncedAt": "2026-09-10T11:39:11.047Z"
         }
       ]
     },
