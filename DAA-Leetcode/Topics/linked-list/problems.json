@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-09-10T11:39:11.047Z",
+  "updatedAt": "2026-09-10T11:39:22.037Z",
   "problems": [
     {
       "frontendId": "19",
@@ -62,7 +62,7 @@
           "filename": "0160-intersection-of-two-linked-lists.py",
           "path": "DAA-Leetcode/0160-intersection-of-two-linked-lists/0160-intersection-of-two-linked-lists.py",
           "sha": "57e4ea7b54d2cfffffeb3d742e31aca98687e34c",
-          "lastSyncedAt": "2026-09-10T11:39:11.047Z"
+          "lastSyncedAt": "2026-09-10T11:39:22.037Z"
         }
       ]
     },
