@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-08T16:30:24.279Z",
+  "updatedAt": "2026-09-10T09:01:27.966Z",
   "problems": [
     {
       "frontendId": "19",
@@ -103,6 +103,26 @@
           "path": "DAA-Leetcode/0167-two-sum-ii-input-array-is-sorted/0167-two-sum-ii-input-array-is-sorted.py",
           "sha": "4d2dac6f738dae9e4fdbea23ebea82dbe6e77437",
           "lastSyncedAt": "2026-08-18T17:58:44.604Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "287",
+      "title": "Find the Duplicate Number",
+      "slug": "find-the-duplicate-number",
+      "problemName": "0287-find-the-duplicate-number",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-duplicate-number/",
+      "folderPath": "DAA-Leetcode/0287-find-the-duplicate-number/",
+      "readmePath": "DAA-Leetcode/0287-find-the-duplicate-number/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0287-find-the-duplicate-number.py",
+          "path": "DAA-Leetcode/0287-find-the-duplicate-number/0287-find-the-duplicate-number.py",
+          "sha": "c2603e6e3dcada7fb68a2d4f1439fb5b6a546814",
+          "lastSyncedAt": "2026-09-10T09:01:27.966Z"
         }
       ]
     },
