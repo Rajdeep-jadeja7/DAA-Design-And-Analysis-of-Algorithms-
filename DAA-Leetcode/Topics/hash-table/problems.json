@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-10T11:39:22.037Z",
+  "updatedAt": "2026-09-11T13:36:38.297Z",
   "problems": [
     {
       "frontendId": "1",
@@ -43,6 +43,26 @@
           "path": "DAA-Leetcode/0160-intersection-of-two-linked-lists/0160-intersection-of-two-linked-lists.py",
           "sha": "57e4ea7b54d2cfffffeb3d742e31aca98687e34c",
           "lastSyncedAt": "2026-09-10T11:39:22.037Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "217",
+      "title": "Contains Duplicate",
+      "slug": "contains-duplicate",
+      "problemName": "0217-contains-duplicate",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/contains-duplicate/",
+      "folderPath": "DAA-Leetcode/0217-contains-duplicate/",
+      "readmePath": "DAA-Leetcode/0217-contains-duplicate/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0217-contains-duplicate.py",
+          "path": "DAA-Leetcode/0217-contains-duplicate/0217-contains-duplicate.py",
+          "sha": "53dcae5de994ef36bceb7e760b3d326c1693a253",
+          "lastSyncedAt": "2026-09-11T13:36:38.297Z"
         }
       ]
     },
