@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-11T13:36:45.247Z",
+  "updatedAt": "2026-09-12T10:57:16.017Z",
   "problems": [
     {
       "frontendId": "217",
@@ -23,6 +23,26 @@
           "path": "DAA-Leetcode/0217-contains-duplicate/0217-contains-duplicate.py",
           "sha": "53dcae5de994ef36bceb7e760b3d326c1693a253",
           "lastSyncedAt": "2026-09-11T13:36:45.247Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "414",
+      "title": "Third Maximum Number",
+      "slug": "third-maximum-number",
+      "problemName": "0414-third-maximum-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/third-maximum-number/",
+      "folderPath": "DAA-Leetcode/0414-third-maximum-number/",
+      "readmePath": "DAA-Leetcode/0414-third-maximum-number/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0414-third-maximum-number.py",
+          "path": "DAA-Leetcode/0414-third-maximum-number/0414-third-maximum-number.py",
+          "sha": "e1b9f5ef69bb9a113b25d7f72614d2cf0423f102",
+          "lastSyncedAt": "2026-09-12T10:57:16.017Z"
         }
       ]
     },
