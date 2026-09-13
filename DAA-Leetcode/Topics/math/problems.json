@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-09T07:40:12.005Z",
+  "updatedAt": "2026-09-13T12:23:32.417Z",
   "problems": [
     {
       "frontendId": "9",
@@ -43,6 +43,26 @@
           "path": "DAA-Leetcode/2894-divisible-and-non-divisible-sums-difference/2894-divisible-and-non-divisible-sums-difference.py",
           "sha": "616630314827d07a1bfff29a053282c715dcf9ee",
           "lastSyncedAt": "2026-09-06T16:49:59.331Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3512",
+      "title": "Minimum Operations to Make Array Sum Divisible by K",
+      "slug": "minimum-operations-to-make-array-sum-divisible-by-k",
+      "problemName": "3512-minimum-operations-to-make-array-sum-divisible-by-k",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/",
+      "folderPath": "DAA-Leetcode/3512-minimum-operations-to-make-array-sum-divisible-by-k/",
+      "readmePath": "DAA-Leetcode/3512-minimum-operations-to-make-array-sum-divisible-by-k/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3512-minimum-operations-to-make-array-sum-divisible-by-k.py",
+          "path": "DAA-Leetcode/3512-minimum-operations-to-make-array-sum-divisible-by-k/3512-minimum-operations-to-make-array-sum-divisible-by-k.py",
+          "sha": "5c841989f6bb0e3169ba91f60036f1c34e61f2ec",
+          "lastSyncedAt": "2026-09-13T12:23:32.417Z"
         }
       ]
     },
