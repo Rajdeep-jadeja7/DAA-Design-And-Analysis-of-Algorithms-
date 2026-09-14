@@ -4,7 +4,7 @@
     "slug": "simulation",
     "name": "Simulation"
   },
-  "updatedAt": "2026-08-20T14:17:20.098Z",
+  "updatedAt": "2026-09-14T12:18:54.990Z",
   "problems": [
     {
       "frontendId": "3069",
@@ -23,6 +23,26 @@
           "path": "DAA-Leetcode/3069-distribute-elements-into-two-arrays-i/3069-distribute-elements-into-two-arrays-i.py",
           "sha": "76bdca2ea79d8f7825fc6ff0c44bce3194f96a33",
           "lastSyncedAt": "2026-08-20T14:17:20.098Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3925",
+      "title": "Concatenate Array With Reverse",
+      "slug": "concatenate-array-with-reverse",
+      "problemName": "3925-concatenate-array-with-reverse",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/concatenate-array-with-reverse/",
+      "folderPath": "DAA-Leetcode/3925-concatenate-array-with-reverse/",
+      "readmePath": "DAA-Leetcode/3925-concatenate-array-with-reverse/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3925-concatenate-array-with-reverse.py",
+          "path": "DAA-Leetcode/3925-concatenate-array-with-reverse/3925-concatenate-array-with-reverse.py",
+          "sha": "72291fa9f7d89eb4f62c101e7922f663d4897f6c",
+          "lastSyncedAt": "2026-09-14T12:18:54.990Z"
         }
       ]
     }
