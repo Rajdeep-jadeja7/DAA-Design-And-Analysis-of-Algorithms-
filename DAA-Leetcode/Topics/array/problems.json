@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-14T12:18:54.990Z",
+  "updatedAt": "2026-09-15T03:50:33.562Z",
   "problems": [
     {
       "frontendId": "1",
@@ -183,6 +183,26 @@
           "path": "DAA-Leetcode/0599-minimum-index-sum-of-two-lists/0599-minimum-index-sum-of-two-lists.py",
           "sha": "40743724a7733e298e9129c59a074a4252ba4f7b",
           "lastSyncedAt": "2026-08-30T06:43:30.049Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2942",
+      "title": "Find Words Containing Character",
+      "slug": "find-words-containing-character",
+      "problemName": "2942-find-words-containing-character",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-words-containing-character/",
+      "folderPath": "DAA-Leetcode/2942-find-words-containing-character/",
+      "readmePath": "DAA-Leetcode/2942-find-words-containing-character/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2942-find-words-containing-character.py",
+          "path": "DAA-Leetcode/2942-find-words-containing-character/2942-find-words-containing-character.py",
+          "sha": "97488e29be6adf3b3111a4f5eee43a1356c879ce",
+          "lastSyncedAt": "2026-09-15T03:50:33.562Z"
         }
       ]
     },
