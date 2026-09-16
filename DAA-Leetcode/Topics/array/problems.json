@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-15T03:50:33.562Z",
+  "updatedAt": "2026-09-16T12:57:01.859Z",
   "problems": [
     {
       "frontendId": "1",
@@ -183,6 +183,26 @@
           "path": "DAA-Leetcode/0599-minimum-index-sum-of-two-lists/0599-minimum-index-sum-of-two-lists.py",
           "sha": "40743724a7733e298e9129c59a074a4252ba4f7b",
           "lastSyncedAt": "2026-08-30T06:43:30.049Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1929",
+      "title": "Concatenation of Array",
+      "slug": "concatenation-of-array",
+      "problemName": "1929-concatenation-of-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/concatenation-of-array/",
+      "folderPath": "DAA-Leetcode/1929-concatenation-of-array/",
+      "readmePath": "DAA-Leetcode/1929-concatenation-of-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1929-concatenation-of-array.py",
+          "path": "DAA-Leetcode/1929-concatenation-of-array/1929-concatenation-of-array.py",
+          "sha": "49af64d6068cc16c27678342a9b26942d1b38aea",
+          "lastSyncedAt": "2026-09-16T12:57:01.859Z"
         }
       ]
     },
