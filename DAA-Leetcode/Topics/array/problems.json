@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-16T12:57:01.859Z",
+  "updatedAt": "2026-09-17T14:12:51.420Z",
   "problems": [
     {
       "frontendId": "1",
@@ -203,6 +203,26 @@
           "path": "DAA-Leetcode/1929-concatenation-of-array/1929-concatenation-of-array.py",
           "sha": "49af64d6068cc16c27678342a9b26942d1b38aea",
           "lastSyncedAt": "2026-09-16T12:57:01.859Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2161",
+      "title": "Partition Array According to Given Pivot",
+      "slug": "partition-array-according-to-given-pivot",
+      "problemName": "2161-partition-array-according-to-given-pivot",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/partition-array-according-to-given-pivot/",
+      "folderPath": "DAA-Leetcode/2161-partition-array-according-to-given-pivot/",
+      "readmePath": "DAA-Leetcode/2161-partition-array-according-to-given-pivot/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2161-partition-array-according-to-given-pivot.py",
+          "path": "DAA-Leetcode/2161-partition-array-according-to-given-pivot/2161-partition-array-according-to-given-pivot.py",
+          "sha": "6ceff15643b6602c7f2dbd528357f4e92c5361c8",
+          "lastSyncedAt": "2026-09-17T14:12:51.420Z"
         }
       ]
     },
