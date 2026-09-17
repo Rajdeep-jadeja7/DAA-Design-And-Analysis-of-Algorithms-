@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-10T11:39:22.037Z",
+  "updatedAt": "2026-09-17T14:12:51.420Z",
   "problems": [
     {
       "frontendId": "19",
@@ -183,6 +183,26 @@
           "path": "DAA-Leetcode/2095-delete-the-middle-node-of-a-linked-list/2095-delete-the-middle-node-of-a-linked-list.py",
           "sha": "18ed67e915599706925b60e5a6ddccba27584d24",
           "lastSyncedAt": "2026-09-08T16:30:24.279Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2161",
+      "title": "Partition Array According to Given Pivot",
+      "slug": "partition-array-according-to-given-pivot",
+      "problemName": "2161-partition-array-according-to-given-pivot",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/partition-array-according-to-given-pivot/",
+      "folderPath": "DAA-Leetcode/2161-partition-array-according-to-given-pivot/",
+      "readmePath": "DAA-Leetcode/2161-partition-array-according-to-given-pivot/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2161-partition-array-according-to-given-pivot.py",
+          "path": "DAA-Leetcode/2161-partition-array-according-to-given-pivot/2161-partition-array-according-to-given-pivot.py",
+          "sha": "6ceff15643b6602c7f2dbd528357f4e92c5361c8",
+          "lastSyncedAt": "2026-09-17T14:12:51.420Z"
         }
       ]
     }
