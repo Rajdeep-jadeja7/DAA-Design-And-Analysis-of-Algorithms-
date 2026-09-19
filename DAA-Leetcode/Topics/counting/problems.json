@@ -4,8 +4,28 @@
     "slug": "counting",
     "name": "Counting"
   },
-  "updatedAt": "2026-08-29T10:21:27.687Z",
+  "updatedAt": "2026-09-19T07:44:54.939Z",
   "problems": [
+    {
+      "frontendId": "383",
+      "title": "Ransom Note",
+      "slug": "ransom-note",
+      "problemName": "0383-ransom-note",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/ransom-note/",
+      "folderPath": "DAA-Leetcode/0383-ransom-note/",
+      "readmePath": "DAA-Leetcode/0383-ransom-note/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0383-ransom-note.py",
+          "path": "DAA-Leetcode/0383-ransom-note/0383-ransom-note.py",
+          "sha": "d2d117c1e7e1011f4c8262fd295a5eea8f37bcb6",
+          "lastSyncedAt": "2026-09-19T07:44:54.939Z"
+        }
+      ]
+    },
     {
       "frontendId": "451",
       "title": "Sort Characters By Frequency",
