@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-18T13:29:23.944Z",
+  "updatedAt": "2026-09-19T07:44:54.939Z",
   "problems": [
     {
       "frontendId": "1",
@@ -63,6 +63,26 @@
           "path": "DAA-Leetcode/0217-contains-duplicate/0217-contains-duplicate.py",
           "sha": "53dcae5de994ef36bceb7e760b3d326c1693a253",
           "lastSyncedAt": "2026-09-11T13:36:45.247Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "383",
+      "title": "Ransom Note",
+      "slug": "ransom-note",
+      "problemName": "0383-ransom-note",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/ransom-note/",
+      "folderPath": "DAA-Leetcode/0383-ransom-note/",
+      "readmePath": "DAA-Leetcode/0383-ransom-note/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0383-ransom-note.py",
+          "path": "DAA-Leetcode/0383-ransom-note/0383-ransom-note.py",
+          "sha": "d2d117c1e7e1011f4c8262fd295a5eea8f37bcb6",
+          "lastSyncedAt": "2026-09-19T07:44:54.939Z"
         }
       ]
     },
