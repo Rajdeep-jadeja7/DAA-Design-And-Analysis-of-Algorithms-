@@ -4,6 +4,27 @@
     "slug": "matrix",
     "name": "Matrix"
   },
-  "updatedAt": "2026-08-18T17:53:08.144Z",
-  "problems": []
+  "updatedAt": "2026-09-21T07:21:12.246Z",
+  "problems": [
+    {
+      "frontendId": "832",
+      "title": "Flipping an Image",
+      "slug": "flipping-an-image",
+      "problemName": "0832-flipping-an-image",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/flipping-an-image/",
+      "folderPath": "DAA-Leetcode/0832-flipping-an-image/",
+      "readmePath": "DAA-Leetcode/0832-flipping-an-image/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0832-flipping-an-image.py",
+          "path": "DAA-Leetcode/0832-flipping-an-image/0832-flipping-an-image.py",
+          "sha": "b0ce9a60efb47f83e515ee2dc60a48f4ea3e4e42",
+          "lastSyncedAt": "2026-09-21T07:21:12.246Z"
+        }
+      ]
+    }
+  ]
 }
