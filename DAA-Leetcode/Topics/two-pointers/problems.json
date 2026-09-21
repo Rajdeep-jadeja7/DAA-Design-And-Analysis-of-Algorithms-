@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-17T14:12:51.420Z",
+  "updatedAt": "2026-09-21T07:21:12.246Z",
   "problems": [
     {
       "frontendId": "19",
@@ -143,6 +143,26 @@
           "path": "DAA-Leetcode/0287-find-the-duplicate-number/0287-find-the-duplicate-number.py",
           "sha": "c2603e6e3dcada7fb68a2d4f1439fb5b6a546814",
           "lastSyncedAt": "2026-09-10T09:01:27.966Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "832",
+      "title": "Flipping an Image",
+      "slug": "flipping-an-image",
+      "problemName": "0832-flipping-an-image",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/flipping-an-image/",
+      "folderPath": "DAA-Leetcode/0832-flipping-an-image/",
+      "readmePath": "DAA-Leetcode/0832-flipping-an-image/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0832-flipping-an-image.py",
+          "path": "DAA-Leetcode/0832-flipping-an-image/0832-flipping-an-image.py",
+          "sha": "b0ce9a60efb47f83e515ee2dc60a48f4ea3e4e42",
+          "lastSyncedAt": "2026-09-21T07:21:12.246Z"
         }
       ]
     },
