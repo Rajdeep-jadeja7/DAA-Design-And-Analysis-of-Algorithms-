@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-22T02:33:56.270Z",
+  "updatedAt": "2026-09-22T02:37:20.677Z",
   "problems": [
     {
       "frontendId": "1",
@@ -182,7 +182,7 @@
           "filename": "0575-distribute-candies.py",
           "path": "DAA-Leetcode/0575-distribute-candies/0575-distribute-candies.py",
           "sha": "e859ae3faeecf266497ef3ef5aa6cd8947ef7727",
-          "lastSyncedAt": "2026-09-22T02:33:56.270Z"
+          "lastSyncedAt": "2026-09-22T02:37:20.677Z"
         }
       ]
     },
