@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-21T07:21:12.246Z",
+  "updatedAt": "2026-09-22T02:33:56.270Z",
   "problems": [
     {
       "frontendId": "1",
@@ -183,6 +183,26 @@
           "path": "DAA-Leetcode/0442-find-all-duplicates-in-an-array/0442-find-all-duplicates-in-an-array.py",
           "sha": "e5976a192faffec5565e83a6f48efcbf42bb3922",
           "lastSyncedAt": "2026-09-18T13:29:23.944Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "575",
+      "title": "Distribute Candies",
+      "slug": "distribute-candies",
+      "problemName": "0575-distribute-candies",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/distribute-candies/",
+      "folderPath": "DAA-Leetcode/0575-distribute-candies/",
+      "readmePath": "DAA-Leetcode/0575-distribute-candies/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0575-distribute-candies.py",
+          "path": "DAA-Leetcode/0575-distribute-candies/0575-distribute-candies.py",
+          "sha": "e859ae3faeecf266497ef3ef5aa6cd8947ef7727",
+          "lastSyncedAt": "2026-09-22T02:33:56.270Z"
         }
       ]
     },
