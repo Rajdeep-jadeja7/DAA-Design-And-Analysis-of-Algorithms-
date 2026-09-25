@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T14:10:51.841Z",
+  "updatedAt": "2026-09-25T05:41:34.615Z",
   "problems": [
     {
       "frontendId": "1",
@@ -243,6 +243,26 @@
           "path": "DAA-Leetcode/0832-flipping-an-image/0832-flipping-an-image.py",
           "sha": "b0ce9a60efb47f83e515ee2dc60a48f4ea3e4e42",
           "lastSyncedAt": "2026-09-21T07:21:12.246Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1512",
+      "title": "Number of Good Pairs",
+      "slug": "number-of-good-pairs",
+      "problemName": "1512-number-of-good-pairs",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-good-pairs/",
+      "folderPath": "DAA-Leetcode/1512-number-of-good-pairs/",
+      "readmePath": "DAA-Leetcode/1512-number-of-good-pairs/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1512-number-of-good-pairs.py",
+          "path": "DAA-Leetcode/1512-number-of-good-pairs/1512-number-of-good-pairs.py",
+          "sha": "303e5e4fb41f768b0da2cb2df805e6ecea0ea409",
+          "lastSyncedAt": "2026-09-25T05:41:34.615Z"
         }
       ]
     },
