@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-24T14:10:51.841Z",
+  "updatedAt": "2026-09-25T05:41:34.615Z",
   "problems": [
     {
       "frontendId": "9",
@@ -23,6 +23,26 @@
           "path": "DAA-Leetcode/0009-palindrome-number/0009-palindrome-number.py",
           "sha": "c89cb5227934db4aee239756a67117b87814c127",
           "lastSyncedAt": "2026-08-19T13:45:21.060Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1512",
+      "title": "Number of Good Pairs",
+      "slug": "number-of-good-pairs",
+      "problemName": "1512-number-of-good-pairs",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-good-pairs/",
+      "folderPath": "DAA-Leetcode/1512-number-of-good-pairs/",
+      "readmePath": "DAA-Leetcode/1512-number-of-good-pairs/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1512-number-of-good-pairs.py",
+          "path": "DAA-Leetcode/1512-number-of-good-pairs/1512-number-of-good-pairs.py",
+          "sha": "303e5e4fb41f768b0da2cb2df805e6ecea0ea409",
+          "lastSyncedAt": "2026-09-25T05:41:34.615Z"
         }
       ]
     },
