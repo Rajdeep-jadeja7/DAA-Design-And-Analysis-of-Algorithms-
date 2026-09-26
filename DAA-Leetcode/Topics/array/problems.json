@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-25T05:41:34.615Z",
+  "updatedAt": "2026-09-26T08:46:59.379Z",
   "problems": [
     {
       "frontendId": "1",
@@ -243,6 +243,26 @@
           "path": "DAA-Leetcode/0832-flipping-an-image/0832-flipping-an-image.py",
           "sha": "b0ce9a60efb47f83e515ee2dc60a48f4ea3e4e42",
           "lastSyncedAt": "2026-09-21T07:21:12.246Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "860",
+      "title": "Lemonade Change",
+      "slug": "lemonade-change",
+      "problemName": "0860-lemonade-change",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/lemonade-change/",
+      "folderPath": "DAA-Leetcode/0860-lemonade-change/",
+      "readmePath": "DAA-Leetcode/0860-lemonade-change/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0860-lemonade-change.py",
+          "path": "DAA-Leetcode/0860-lemonade-change/0860-lemonade-change.py",
+          "sha": "87fc29bff7c9072465878aa9e9aabedfbe3eb336",
+          "lastSyncedAt": "2026-09-26T08:46:59.379Z"
         }
       ]
     },
