@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-21T07:21:12.246Z",
+  "updatedAt": "2026-09-27T17:19:42.958Z",
   "problems": [
     {
       "frontendId": "19",
@@ -143,6 +143,26 @@
           "path": "DAA-Leetcode/0287-find-the-duplicate-number/0287-find-the-duplicate-number.py",
           "sha": "c2603e6e3dcada7fb68a2d4f1439fb5b6a546814",
           "lastSyncedAt": "2026-09-10T09:01:27.966Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "455",
+      "title": "Assign Cookies",
+      "slug": "assign-cookies",
+      "problemName": "0455-assign-cookies",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/assign-cookies/",
+      "folderPath": "DAA-Leetcode/0455-assign-cookies/",
+      "readmePath": "DAA-Leetcode/0455-assign-cookies/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0455-assign-cookies.py",
+          "path": "DAA-Leetcode/0455-assign-cookies/0455-assign-cookies.py",
+          "sha": "a145902b89a47cb16a6ad5db0c1d284d0c07ec52",
+          "lastSyncedAt": "2026-09-27T17:19:42.958Z"
         }
       ]
     },
