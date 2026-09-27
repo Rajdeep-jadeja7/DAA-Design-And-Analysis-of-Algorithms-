@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-18T13:29:23.944Z",
+  "updatedAt": "2026-09-27T17:19:42.958Z",
   "problems": [
     {
       "frontendId": "217",
@@ -83,6 +83,26 @@
           "path": "DAA-Leetcode/0451-sort-characters-by-frequency/0451-sort-characters-by-frequency.py",
           "sha": "968456e42fbf267fe538c9d7f82f37c32ba5e089",
           "lastSyncedAt": "2026-08-29T10:21:27.687Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "455",
+      "title": "Assign Cookies",
+      "slug": "assign-cookies",
+      "problemName": "0455-assign-cookies",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/assign-cookies/",
+      "folderPath": "DAA-Leetcode/0455-assign-cookies/",
+      "readmePath": "DAA-Leetcode/0455-assign-cookies/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0455-assign-cookies.py",
+          "path": "DAA-Leetcode/0455-assign-cookies/0455-assign-cookies.py",
+          "sha": "a145902b89a47cb16a6ad5db0c1d284d0c07ec52",
+          "lastSyncedAt": "2026-09-27T17:19:42.958Z"
         }
       ]
     }
