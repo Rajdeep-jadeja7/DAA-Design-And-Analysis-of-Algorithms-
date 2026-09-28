@@ -4,6 +4,27 @@
     "slug": "stack",
     "name": "Stack"
   },
-  "updatedAt": "2026-08-18T17:53:08.144Z",
-  "problems": []
+  "updatedAt": "2026-09-28T03:54:08.053Z",
+  "problems": [
+    {
+      "frontendId": "1614",
+      "title": "Maximum Nesting Depth of the Parentheses",
+      "slug": "maximum-nesting-depth-of-the-parentheses",
+      "problemName": "1614-maximum-nesting-depth-of-the-parentheses",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/",
+      "folderPath": "DAA-Leetcode/1614-maximum-nesting-depth-of-the-parentheses/",
+      "readmePath": "DAA-Leetcode/1614-maximum-nesting-depth-of-the-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1614-maximum-nesting-depth-of-the-parentheses.py",
+          "path": "DAA-Leetcode/1614-maximum-nesting-depth-of-the-parentheses/1614-maximum-nesting-depth-of-the-parentheses.py",
+          "sha": "7c3ccbe19ade01a4fcfd1b6018931988704a2d6e",
+          "lastSyncedAt": "2026-09-28T03:54:08.053Z"
+        }
+      ]
+    }
+  ]
 }
