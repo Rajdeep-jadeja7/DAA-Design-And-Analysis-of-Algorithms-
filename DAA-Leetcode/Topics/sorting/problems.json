@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-27T17:19:42.958Z",
+  "updatedAt": "2026-09-29T16:34:30.649Z",
   "problems": [
     {
       "frontendId": "217",
@@ -103,6 +103,26 @@
           "path": "DAA-Leetcode/0455-assign-cookies/0455-assign-cookies.py",
           "sha": "a145902b89a47cb16a6ad5db0c1d284d0c07ec52",
           "lastSyncedAt": "2026-09-27T17:19:42.958Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2418",
+      "title": "Sort the People",
+      "slug": "sort-the-people",
+      "problemName": "2418-sort-the-people",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-the-people/",
+      "folderPath": "DAA-Leetcode/2418-sort-the-people/",
+      "readmePath": "DAA-Leetcode/2418-sort-the-people/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2418-sort-the-people.py",
+          "path": "DAA-Leetcode/2418-sort-the-people/2418-sort-the-people.py",
+          "sha": "0dda88524bff1328299fb0caa7d1d28c85d6a4fe",
+          "lastSyncedAt": "2026-09-29T16:34:30.649Z"
         }
       ]
     }
