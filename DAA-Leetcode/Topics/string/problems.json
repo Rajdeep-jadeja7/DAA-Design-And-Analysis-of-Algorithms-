@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-28T03:54:08.053Z",
+  "updatedAt": "2026-09-29T16:33:07.103Z",
   "problems": [
     {
       "frontendId": "14",
@@ -223,6 +223,26 @@
           "path": "DAA-Leetcode/1614-maximum-nesting-depth-of-the-parentheses/1614-maximum-nesting-depth-of-the-parentheses.py",
           "sha": "7c3ccbe19ade01a4fcfd1b6018931988704a2d6e",
           "lastSyncedAt": "2026-09-28T03:54:08.053Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2418",
+      "title": "Sort the People",
+      "slug": "sort-the-people",
+      "problemName": "2418-sort-the-people",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-the-people/",
+      "folderPath": "DAA-Leetcode/2418-sort-the-people/",
+      "readmePath": "DAA-Leetcode/2418-sort-the-people/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2418-sort-the-people.py",
+          "path": "DAA-Leetcode/2418-sort-the-people/2418-sort-the-people.py",
+          "sha": "0dda88524bff1328299fb0caa7d1d28c85d6a4fe",
+          "lastSyncedAt": "2026-09-29T16:33:07.103Z"
         }
       ]
     },
