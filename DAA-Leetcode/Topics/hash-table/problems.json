@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-25T05:41:34.615Z",
+  "updatedAt": "2026-09-29T16:33:07.103Z",
   "problems": [
     {
       "frontendId": "1",
@@ -263,6 +263,26 @@
           "path": "DAA-Leetcode/1512-number-of-good-pairs/1512-number-of-good-pairs.py",
           "sha": "303e5e4fb41f768b0da2cb2df805e6ecea0ea409",
           "lastSyncedAt": "2026-09-25T05:41:34.615Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2418",
+      "title": "Sort the People",
+      "slug": "sort-the-people",
+      "problemName": "2418-sort-the-people",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-the-people/",
+      "folderPath": "DAA-Leetcode/2418-sort-the-people/",
+      "readmePath": "DAA-Leetcode/2418-sort-the-people/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2418-sort-the-people.py",
+          "path": "DAA-Leetcode/2418-sort-the-people/2418-sort-the-people.py",
+          "sha": "0dda88524bff1328299fb0caa7d1d28c85d6a4fe",
+          "lastSyncedAt": "2026-09-29T16:33:07.103Z"
         }
       ]
     },
