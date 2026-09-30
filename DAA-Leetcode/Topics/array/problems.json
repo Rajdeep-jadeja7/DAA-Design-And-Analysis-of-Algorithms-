@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-30T05:48:13.001Z",
+  "updatedAt": "2026-09-30T06:59:14.454Z",
   "problems": [
     {
       "frontendId": "1",
@@ -343,6 +343,26 @@
           "path": "DAA-Leetcode/2161-partition-array-according-to-given-pivot/2161-partition-array-according-to-given-pivot.py",
           "sha": "6ceff15643b6602c7f2dbd528357f4e92c5361c8",
           "lastSyncedAt": "2026-09-17T14:12:51.420Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2279",
+      "title": "Maximum Bags With Full Capacity of Rocks",
+      "slug": "maximum-bags-with-full-capacity-of-rocks",
+      "problemName": "2279-maximum-bags-with-full-capacity-of-rocks",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/",
+      "folderPath": "DAA-Leetcode/2279-maximum-bags-with-full-capacity-of-rocks/",
+      "readmePath": "DAA-Leetcode/2279-maximum-bags-with-full-capacity-of-rocks/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2279-maximum-bags-with-full-capacity-of-rocks.py",
+          "path": "DAA-Leetcode/2279-maximum-bags-with-full-capacity-of-rocks/2279-maximum-bags-with-full-capacity-of-rocks.py",
+          "sha": "3d86858238efa8c85053315882a10d6093d3a513",
+          "lastSyncedAt": "2026-09-30T06:59:14.454Z"
         }
       ]
     },
