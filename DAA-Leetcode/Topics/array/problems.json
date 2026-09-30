@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-29T16:34:30.649Z",
+  "updatedAt": "2026-09-30T05:48:13.001Z",
   "problems": [
     {
       "frontendId": "1",
@@ -363,6 +363,26 @@
           "path": "DAA-Leetcode/2418-sort-the-people/2418-sort-the-people.py",
           "sha": "0dda88524bff1328299fb0caa7d1d28c85d6a4fe",
           "lastSyncedAt": "2026-09-29T16:34:30.649Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2706",
+      "title": "Buy Two Chocolates",
+      "slug": "buy-two-chocolates",
+      "problemName": "2706-buy-two-chocolates",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/buy-two-chocolates/",
+      "folderPath": "DAA-Leetcode/2706-buy-two-chocolates/",
+      "readmePath": "DAA-Leetcode/2706-buy-two-chocolates/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2706-buy-two-chocolates.py",
+          "path": "DAA-Leetcode/2706-buy-two-chocolates/2706-buy-two-chocolates.py",
+          "sha": "1ad2fa11ca7d7f9316886796b184f8f5a79667bf",
+          "lastSyncedAt": "2026-09-30T05:48:13.001Z"
         }
       ]
     },
