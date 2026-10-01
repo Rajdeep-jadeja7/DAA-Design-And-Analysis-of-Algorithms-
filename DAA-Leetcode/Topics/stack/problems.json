@@ -4,8 +4,28 @@
     "slug": "stack",
     "name": "Stack"
   },
-  "updatedAt": "2026-09-28T03:54:08.053Z",
+  "updatedAt": "2026-10-01T04:12:48.869Z",
   "problems": [
+    {
+      "frontendId": "20",
+      "title": "Valid Parentheses",
+      "slug": "valid-parentheses",
+      "problemName": "0020-valid-parentheses",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-parentheses/",
+      "folderPath": "DAA-Leetcode/0020-valid-parentheses/",
+      "readmePath": "DAA-Leetcode/0020-valid-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0020-valid-parentheses.py",
+          "path": "DAA-Leetcode/0020-valid-parentheses/0020-valid-parentheses.py",
+          "sha": "ab00c2b6079edacfe94018042fb77590f1d2e704",
+          "lastSyncedAt": "2026-10-01T04:12:48.869Z"
+        }
+      ]
+    },
     {
       "frontendId": "1614",
       "title": "Maximum Nesting Depth of the Parentheses",
