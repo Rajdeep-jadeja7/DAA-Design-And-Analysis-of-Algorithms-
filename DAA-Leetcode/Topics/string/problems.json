@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-02T12:33:51.219Z",
+  "updatedAt": "2026-10-03T11:17:20.420Z",
   "problems": [
     {
       "frontendId": "14",
@@ -303,6 +303,26 @@
           "path": "DAA-Leetcode/2942-find-words-containing-character/2942-find-words-containing-character.py",
           "sha": "97488e29be6adf3b3111a4f5eee43a1356c879ce",
           "lastSyncedAt": "2026-09-15T03:50:33.562Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3110",
+      "title": "Score of a String",
+      "slug": "score-of-a-string",
+      "problemName": "3110-score-of-a-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/score-of-a-string/",
+      "folderPath": "DAA-Leetcode/3110-score-of-a-string/",
+      "readmePath": "DAA-Leetcode/3110-score-of-a-string/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3110-score-of-a-string.py",
+          "path": "DAA-Leetcode/3110-score-of-a-string/3110-score-of-a-string.py",
+          "sha": "12ca28b132589f2279ca13f8becdfae022354343",
+          "lastSyncedAt": "2026-10-03T11:17:20.420Z"
         }
       ]
     },
