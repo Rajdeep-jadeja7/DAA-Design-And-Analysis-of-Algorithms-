@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-30T06:59:14.454Z",
+  "updatedAt": "2026-10-04T12:29:26.644Z",
   "problems": [
     {
       "frontendId": "1",
@@ -303,6 +303,26 @@
           "path": "DAA-Leetcode/1512-number-of-good-pairs/1512-number-of-good-pairs.py",
           "sha": "303e5e4fb41f768b0da2cb2df805e6ecea0ea409",
           "lastSyncedAt": "2026-09-25T05:41:34.615Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1662",
+      "title": "Check If Two String Arrays are Equivalent",
+      "slug": "check-if-two-string-arrays-are-equivalent",
+      "problemName": "1662-check-if-two-string-arrays-are-equivalent",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/",
+      "folderPath": "DAA-Leetcode/1662-check-if-two-string-arrays-are-equivalent/",
+      "readmePath": "DAA-Leetcode/1662-check-if-two-string-arrays-are-equivalent/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1662-check-if-two-string-arrays-are-equivalent.py",
+          "path": "DAA-Leetcode/1662-check-if-two-string-arrays-are-equivalent/1662-check-if-two-string-arrays-are-equivalent.py",
+          "sha": "387a81fbcd81cba40cd48b76b81f21e2b39de026",
+          "lastSyncedAt": "2026-10-04T12:29:26.644Z"
         }
       ]
     },
