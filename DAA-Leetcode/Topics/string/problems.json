@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-03T11:17:20.420Z",
+  "updatedAt": "2026-10-04T12:29:26.644Z",
   "problems": [
     {
       "frontendId": "14",
@@ -243,6 +243,26 @@
           "path": "DAA-Leetcode/1614-maximum-nesting-depth-of-the-parentheses/1614-maximum-nesting-depth-of-the-parentheses.py",
           "sha": "7c3ccbe19ade01a4fcfd1b6018931988704a2d6e",
           "lastSyncedAt": "2026-09-28T03:54:08.053Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1662",
+      "title": "Check If Two String Arrays are Equivalent",
+      "slug": "check-if-two-string-arrays-are-equivalent",
+      "problemName": "1662-check-if-two-string-arrays-are-equivalent",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/",
+      "folderPath": "DAA-Leetcode/1662-check-if-two-string-arrays-are-equivalent/",
+      "readmePath": "DAA-Leetcode/1662-check-if-two-string-arrays-are-equivalent/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1662-check-if-two-string-arrays-are-equivalent.py",
+          "path": "DAA-Leetcode/1662-check-if-two-string-arrays-are-equivalent/1662-check-if-two-string-arrays-are-equivalent.py",
+          "sha": "387a81fbcd81cba40cd48b76b81f21e2b39de026",
+          "lastSyncedAt": "2026-10-04T12:29:26.644Z"
         }
       ]
     },
