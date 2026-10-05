@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-30T06:59:14.454Z",
+  "updatedAt": "2026-10-05T06:57:20.210Z",
   "problems": [
     {
       "frontendId": "217",
@@ -23,6 +23,26 @@
           "path": "DAA-Leetcode/0217-contains-duplicate/0217-contains-duplicate.py",
           "sha": "53dcae5de994ef36bceb7e760b3d326c1693a253",
           "lastSyncedAt": "2026-09-11T13:36:45.247Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "229",
+      "title": "Majority Element II",
+      "slug": "majority-element-ii",
+      "problemName": "0229-majority-element-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/majority-element-ii/",
+      "folderPath": "DAA-Leetcode/0229-majority-element-ii/",
+      "readmePath": "DAA-Leetcode/0229-majority-element-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0229-majority-element-ii.py",
+          "path": "DAA-Leetcode/0229-majority-element-ii/0229-majority-element-ii.py",
+          "sha": "e48971081de41622a0e1868d93c7185f3ce0324b",
+          "lastSyncedAt": "2026-10-05T06:57:20.210Z"
         }
       ]
     },
