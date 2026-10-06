@@ -4,7 +4,7 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-10-02T12:33:51.219Z",
+  "updatedAt": "2026-10-06T10:42:30.163Z",
   "problems": [
     {
       "frontendId": "455",
@@ -123,6 +123,26 @@
           "path": "DAA-Leetcode/2706-buy-two-chocolates/2706-buy-two-chocolates.py",
           "sha": "1ad2fa11ca7d7f9316886796b184f8f5a79667bf",
           "lastSyncedAt": "2026-09-30T05:48:13.001Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "4014",
+      "title": "Minimum Total Price After Applying Discounts",
+      "slug": "minimum-total-price-after-applying-discounts",
+      "problemName": "4014-minimum-total-price-after-applying-discounts",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-total-price-after-applying-discounts/",
+      "folderPath": "DAA-Leetcode/4014-minimum-total-price-after-applying-discounts/",
+      "readmePath": "DAA-Leetcode/4014-minimum-total-price-after-applying-discounts/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "4014-minimum-total-price-after-applying-discounts.py",
+          "path": "DAA-Leetcode/4014-minimum-total-price-after-applying-discounts/4014-minimum-total-price-after-applying-discounts.py",
+          "sha": "7a320d7e79865b38850ccf587c39f1f8d08dfcfc",
+          "lastSyncedAt": "2026-10-06T10:42:30.163Z"
         }
       ]
     }
