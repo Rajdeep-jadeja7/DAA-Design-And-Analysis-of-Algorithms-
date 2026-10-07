@@ -10,7 +10,7 @@ class Solution:
             num//=10   
         
         else:
-            if(rev>2147483647 or rev<(-2147483648)):
+            if(rev>2**31 or rev<(-2**31)):
                 return 0
             else:        
                 if(x<0):
