@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-10-08T09:02:57.430Z",
+  "updatedAt": "2026-10-08T09:06:17.051Z",
   "problems": [
     {
       "frontendId": "162",
@@ -82,7 +82,7 @@
           "filename": "0441-arranging-coins.py",
           "path": "DAA-Leetcode/0441-arranging-coins/0441-arranging-coins.py",
           "sha": "451773b771a8635bbe48f1315fce682c3585ae0d",
-          "lastSyncedAt": "2026-10-08T09:02:57.430Z"
+          "lastSyncedAt": "2026-10-08T09:06:17.051Z"
         }
       ]
     },
