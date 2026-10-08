@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-10-07T11:54:57.672Z",
+  "updatedAt": "2026-10-08T09:02:57.430Z",
   "problems": [
     {
       "frontendId": "162",
@@ -63,6 +63,26 @@
           "path": "DAA-Leetcode/0287-find-the-duplicate-number/0287-find-the-duplicate-number.py",
           "sha": "c2603e6e3dcada7fb68a2d4f1439fb5b6a546814",
           "lastSyncedAt": "2026-09-10T09:01:27.966Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "441",
+      "title": "Arranging Coins",
+      "slug": "arranging-coins",
+      "problemName": "0441-arranging-coins",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/arranging-coins/",
+      "folderPath": "DAA-Leetcode/0441-arranging-coins/",
+      "readmePath": "DAA-Leetcode/0441-arranging-coins/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0441-arranging-coins.py",
+          "path": "DAA-Leetcode/0441-arranging-coins/0441-arranging-coins.py",
+          "sha": "451773b771a8635bbe48f1315fce682c3585ae0d",
+          "lastSyncedAt": "2026-10-08T09:02:57.430Z"
         }
       ]
     },
