@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-10-07T03:01:22.480Z",
+  "updatedAt": "2026-10-08T09:02:57.430Z",
   "problems": [
     {
       "frontendId": "7",
@@ -43,6 +43,26 @@
           "path": "DAA-Leetcode/0009-palindrome-number/0009-palindrome-number.py",
           "sha": "c89cb5227934db4aee239756a67117b87814c127",
           "lastSyncedAt": "2026-08-19T13:45:21.060Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "441",
+      "title": "Arranging Coins",
+      "slug": "arranging-coins",
+      "problemName": "0441-arranging-coins",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/arranging-coins/",
+      "folderPath": "DAA-Leetcode/0441-arranging-coins/",
+      "readmePath": "DAA-Leetcode/0441-arranging-coins/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0441-arranging-coins.py",
+          "path": "DAA-Leetcode/0441-arranging-coins/0441-arranging-coins.py",
+          "sha": "451773b771a8635bbe48f1315fce682c3585ae0d",
+          "lastSyncedAt": "2026-10-08T09:02:57.430Z"
         }
       ]
     },
