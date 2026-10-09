@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "array",
-    "name": "Array"
+    "name": "Array",
+    "tagId": "5"
   },
-  "updatedAt": "2026-10-07T11:54:57.672Z",
+  "updatedAt": "2026-10-09T06:22:01.362Z",
   "problems": [
     {
       "frontendId": "1",
@@ -363,6 +364,26 @@
           "path": "DAA-Leetcode/1662-check-if-two-string-arrays-are-equivalent/1662-check-if-two-string-arrays-are-equivalent.py",
           "sha": "387a81fbcd81cba40cd48b76b81f21e2b39de026",
           "lastSyncedAt": "2026-10-04T12:29:26.644Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1833",
+      "title": "Maximum Ice Cream Bars",
+      "slug": "maximum-ice-cream-bars",
+      "problemName": "1833-maximum-ice-cream-bars",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-ice-cream-bars/",
+      "folderPath": "DAA-Leetcode/1833-maximum-ice-cream-bars/",
+      "readmePath": "DAA-Leetcode/1833-maximum-ice-cream-bars/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1833-maximum-ice-cream-bars.py",
+          "path": "DAA-Leetcode/1833-maximum-ice-cream-bars/1833-maximum-ice-cream-bars.py",
+          "sha": "42e8d0438b5d3c7246955dfcf05562f4d01d47d5",
+          "lastSyncedAt": "2026-10-09T06:22:01.362Z"
         }
       ]
     },
