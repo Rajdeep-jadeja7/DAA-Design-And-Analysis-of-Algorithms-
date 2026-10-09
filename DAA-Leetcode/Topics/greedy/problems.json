@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "greedy",
-    "name": "Greedy"
+    "name": "Greedy",
+    "tagId": "17"
   },
-  "updatedAt": "2026-10-06T10:42:30.163Z",
+  "updatedAt": "2026-10-09T06:22:01.362Z",
   "problems": [
     {
       "frontendId": "455",
@@ -63,6 +64,26 @@
           "path": "DAA-Leetcode/1323-maximum-69-number/1323-maximum-69-number.py",
           "sha": "e5952f9c3b50881e91355d837b1f762565870955",
           "lastSyncedAt": "2026-09-25T06:02:48.819Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1833",
+      "title": "Maximum Ice Cream Bars",
+      "slug": "maximum-ice-cream-bars",
+      "problemName": "1833-maximum-ice-cream-bars",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-ice-cream-bars/",
+      "folderPath": "DAA-Leetcode/1833-maximum-ice-cream-bars/",
+      "readmePath": "DAA-Leetcode/1833-maximum-ice-cream-bars/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1833-maximum-ice-cream-bars.py",
+          "path": "DAA-Leetcode/1833-maximum-ice-cream-bars/1833-maximum-ice-cream-bars.py",
+          "sha": "42e8d0438b5d3c7246955dfcf05562f4d01d47d5",
+          "lastSyncedAt": "2026-10-09T06:22:01.362Z"
         }
       ]
     },
