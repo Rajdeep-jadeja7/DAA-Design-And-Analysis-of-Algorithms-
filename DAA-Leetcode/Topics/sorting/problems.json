@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "sorting",
-    "name": "Sorting"
+    "name": "Sorting",
+    "tagId": "61049"
   },
-  "updatedAt": "2026-10-06T10:42:30.163Z",
+  "updatedAt": "2026-10-09T06:22:01.362Z",
   "problems": [
     {
       "frontendId": "217",
@@ -123,6 +124,26 @@
           "path": "DAA-Leetcode/0455-assign-cookies/0455-assign-cookies.py",
           "sha": "a145902b89a47cb16a6ad5db0c1d284d0c07ec52",
           "lastSyncedAt": "2026-09-27T17:19:42.958Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1833",
+      "title": "Maximum Ice Cream Bars",
+      "slug": "maximum-ice-cream-bars",
+      "problemName": "1833-maximum-ice-cream-bars",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-ice-cream-bars/",
+      "folderPath": "DAA-Leetcode/1833-maximum-ice-cream-bars/",
+      "readmePath": "DAA-Leetcode/1833-maximum-ice-cream-bars/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1833-maximum-ice-cream-bars.py",
+          "path": "DAA-Leetcode/1833-maximum-ice-cream-bars/1833-maximum-ice-cream-bars.py",
+          "sha": "42e8d0438b5d3c7246955dfcf05562f4d01d47d5",
+          "lastSyncedAt": "2026-10-09T06:22:01.362Z"
         }
       ]
     },
