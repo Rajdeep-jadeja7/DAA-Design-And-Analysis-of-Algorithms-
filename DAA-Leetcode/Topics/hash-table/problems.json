@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "hash-table",
-    "name": "Hash Table"
+    "name": "Hash Table",
+    "tagId": "6"
   },
-  "updatedAt": "2026-10-05T06:57:20.210Z",
+  "updatedAt": "2026-10-10T11:04:14.068Z",
   "problems": [
     {
       "frontendId": "1",
@@ -303,6 +304,26 @@
           "path": "DAA-Leetcode/2418-sort-the-people/2418-sort-the-people.py",
           "sha": "0dda88524bff1328299fb0caa7d1d28c85d6a4fe",
           "lastSyncedAt": "2026-09-29T16:34:30.649Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3289",
+      "title": "The Two Sneaky Numbers of Digitville",
+      "slug": "the-two-sneaky-numbers-of-digitville",
+      "problemName": "3289-the-two-sneaky-numbers-of-digitville",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/",
+      "folderPath": "DAA-Leetcode/3289-the-two-sneaky-numbers-of-digitville/",
+      "readmePath": "DAA-Leetcode/3289-the-two-sneaky-numbers-of-digitville/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3289-the-two-sneaky-numbers-of-digitville.py",
+          "path": "DAA-Leetcode/3289-the-two-sneaky-numbers-of-digitville/3289-the-two-sneaky-numbers-of-digitville.py",
+          "sha": "919c5028492d7cf295b1a82ff3f25ff3f15a4cc1",
+          "lastSyncedAt": "2026-10-10T11:04:14.068Z"
         }
       ]
     },
