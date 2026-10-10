@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-09T06:22:21.334Z",
+  "updatedAt": "2026-10-10T11:04:14.068Z",
   "problems": [
     {
       "frontendId": "1",
@@ -524,6 +524,26 @@
           "path": "DAA-Leetcode/3069-distribute-elements-into-two-arrays-i/3069-distribute-elements-into-two-arrays-i.py",
           "sha": "76bdca2ea79d8f7825fc6ff0c44bce3194f96a33",
           "lastSyncedAt": "2026-08-20T14:17:20.098Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3289",
+      "title": "The Two Sneaky Numbers of Digitville",
+      "slug": "the-two-sneaky-numbers-of-digitville",
+      "problemName": "3289-the-two-sneaky-numbers-of-digitville",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/",
+      "folderPath": "DAA-Leetcode/3289-the-two-sneaky-numbers-of-digitville/",
+      "readmePath": "DAA-Leetcode/3289-the-two-sneaky-numbers-of-digitville/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3289-the-two-sneaky-numbers-of-digitville.py",
+          "path": "DAA-Leetcode/3289-the-two-sneaky-numbers-of-digitville/3289-the-two-sneaky-numbers-of-digitville.py",
+          "sha": "919c5028492d7cf295b1a82ff3f25ff3f15a4cc1",
+          "lastSyncedAt": "2026-10-10T11:04:14.068Z"
         }
       ]
     },
