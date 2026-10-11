@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-10T11:04:14.068Z",
+  "updatedAt": "2026-10-11T05:12:45.268Z",
   "problems": [
     {
       "frontendId": "1",
@@ -484,6 +484,26 @@
           "path": "DAA-Leetcode/2706-buy-two-chocolates/2706-buy-two-chocolates.py",
           "sha": "1ad2fa11ca7d7f9316886796b184f8f5a79667bf",
           "lastSyncedAt": "2026-09-30T05:48:13.001Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2778",
+      "title": "Sum of Squares of Special Elements ",
+      "slug": "sum-of-squares-of-special-elements",
+      "problemName": "2778-sum-of-squares-of-special-elements",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-squares-of-special-elements/",
+      "folderPath": "DAA-Leetcode/2778-sum-of-squares-of-special-elements/",
+      "readmePath": "DAA-Leetcode/2778-sum-of-squares-of-special-elements/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2778-sum-of-squares-of-special-elements.py",
+          "path": "DAA-Leetcode/2778-sum-of-squares-of-special-elements/2778-sum-of-squares-of-special-elements.py",
+          "sha": "155f9ecdbc2e9eaba4940d550767d7a50b118ef6",
+          "lastSyncedAt": "2026-10-11T05:12:45.268Z"
         }
       ]
     },
