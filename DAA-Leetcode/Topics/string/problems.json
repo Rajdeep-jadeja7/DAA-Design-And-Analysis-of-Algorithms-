@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "string",
-    "name": "String"
+    "name": "String",
+    "tagId": "10"
   },
-  "updatedAt": "2026-10-04T12:29:26.644Z",
+  "updatedAt": "2026-10-12T09:26:17.683Z",
   "problems": [
     {
       "frontendId": "14",
@@ -363,6 +364,26 @@
           "path": "DAA-Leetcode/3498-reverse-degree-of-a-string/3498-reverse-degree-of-a-string.py",
           "sha": "6bb0806ad40c2bbb6ae147717532d5dc5e25af48",
           "lastSyncedAt": "2026-09-20T06:33:28.761Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3545",
+      "title": "Minimum Deletions for At Most K Distinct Characters",
+      "slug": "minimum-deletions-for-at-most-k-distinct-characters",
+      "problemName": "3545-minimum-deletions-for-at-most-k-distinct-characters",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-deletions-for-at-most-k-distinct-characters/",
+      "folderPath": "DAA-Leetcode/3545-minimum-deletions-for-at-most-k-distinct-characters/",
+      "readmePath": "DAA-Leetcode/3545-minimum-deletions-for-at-most-k-distinct-characters/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3545-minimum-deletions-for-at-most-k-distinct-characters.py",
+          "path": "DAA-Leetcode/3545-minimum-deletions-for-at-most-k-distinct-characters/3545-minimum-deletions-for-at-most-k-distinct-characters.py",
+          "sha": "5f097812c639c626038494730e998df16e6a3168",
+          "lastSyncedAt": "2026-10-12T09:26:17.683Z"
         }
       ]
     },
