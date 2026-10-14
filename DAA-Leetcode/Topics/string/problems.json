@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-12T09:27:28.701Z",
+  "updatedAt": "2026-10-14T06:05:57.687Z",
   "problems": [
     {
       "frontendId": "14",
@@ -304,6 +304,26 @@
           "path": "DAA-Leetcode/2418-sort-the-people/2418-sort-the-people.py",
           "sha": "0dda88524bff1328299fb0caa7d1d28c85d6a4fe",
           "lastSyncedAt": "2026-09-29T16:34:30.649Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2785",
+      "title": "Sort Vowels in a String",
+      "slug": "sort-vowels-in-a-string",
+      "problemName": "2785-sort-vowels-in-a-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-vowels-in-a-string/",
+      "folderPath": "DAA-Leetcode/2785-sort-vowels-in-a-string/",
+      "readmePath": "DAA-Leetcode/2785-sort-vowels-in-a-string/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2785-sort-vowels-in-a-string.py",
+          "path": "DAA-Leetcode/2785-sort-vowels-in-a-string/2785-sort-vowels-in-a-string.py",
+          "sha": "6ca6a2558a8eb4cc7118682c3c17744a67d3d6bb",
+          "lastSyncedAt": "2026-10-14T06:05:57.687Z"
         }
       ]
     },
