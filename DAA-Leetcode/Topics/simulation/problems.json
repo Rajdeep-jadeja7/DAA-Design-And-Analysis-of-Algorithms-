@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "simulation",
-    "name": "Simulation"
+    "name": "Simulation",
+    "tagId": "61055"
   },
-  "updatedAt": "2026-09-21T07:21:12.246Z",
+  "updatedAt": "2026-10-15T05:00:09.043Z",
   "problems": [
     {
       "frontendId": "832",
@@ -43,6 +44,26 @@
           "path": "DAA-Leetcode/1929-concatenation-of-array/1929-concatenation-of-array.py",
           "sha": "49af64d6068cc16c27678342a9b26942d1b38aea",
           "lastSyncedAt": "2026-09-16T12:57:01.859Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2011",
+      "title": "Final Value of Variable After Performing Operations",
+      "slug": "final-value-of-variable-after-performing-operations",
+      "problemName": "2011-final-value-of-variable-after-performing-operations",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/final-value-of-variable-after-performing-operations/",
+      "folderPath": "DAA-Leetcode/2011-final-value-of-variable-after-performing-operations/",
+      "readmePath": "DAA-Leetcode/2011-final-value-of-variable-after-performing-operations/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2011-final-value-of-variable-after-performing-operations.py",
+          "path": "DAA-Leetcode/2011-final-value-of-variable-after-performing-operations/2011-final-value-of-variable-after-performing-operations.py",
+          "sha": "81f8823d51f5e40464516c826fe6b4f07dff6ae5",
+          "lastSyncedAt": "2026-10-15T05:00:09.043Z"
         }
       ]
     },
