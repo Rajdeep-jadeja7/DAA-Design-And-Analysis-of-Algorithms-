@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-15T05:00:09.043Z",
+  "updatedAt": "2026-10-16T10:27:21.167Z",
   "problems": [
     {
       "frontendId": "14",
@@ -224,6 +224,26 @@
           "path": "DAA-Leetcode/0884-uncommon-words-from-two-sentences/0884-uncommon-words-from-two-sentences.py",
           "sha": "883e69401c0444281a67632412d32fbe8925bc7e",
           "lastSyncedAt": "2026-08-28T08:20:50.788Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1108",
+      "title": "Defanging an IP Address",
+      "slug": "defanging-an-ip-address",
+      "problemName": "1108-defanging-an-ip-address",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/defanging-an-ip-address/",
+      "folderPath": "DAA-Leetcode/1108-defanging-an-ip-address/",
+      "readmePath": "DAA-Leetcode/1108-defanging-an-ip-address/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1108-defanging-an-ip-address.py",
+          "path": "DAA-Leetcode/1108-defanging-an-ip-address/1108-defanging-an-ip-address.py",
+          "sha": "ce8f2e988b320acc77bd9111f10263847cb78ab6",
+          "lastSyncedAt": "2026-10-16T10:27:21.167Z"
         }
       ]
     },
