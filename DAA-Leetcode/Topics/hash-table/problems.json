@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-12T09:27:28.701Z",
+  "updatedAt": "2026-10-17T10:14:42.304Z",
   "problems": [
     {
       "frontendId": "1",
@@ -284,6 +284,26 @@
           "path": "DAA-Leetcode/1512-number-of-good-pairs/1512-number-of-good-pairs.py",
           "sha": "303e5e4fb41f768b0da2cb2df805e6ecea0ea409",
           "lastSyncedAt": "2026-09-25T05:41:34.615Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1684",
+      "title": "Count the Number of Consistent Strings",
+      "slug": "count-the-number-of-consistent-strings",
+      "problemName": "1684-count-the-number-of-consistent-strings",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-the-number-of-consistent-strings/",
+      "folderPath": "DAA-Leetcode/1684-count-the-number-of-consistent-strings/",
+      "readmePath": "DAA-Leetcode/1684-count-the-number-of-consistent-strings/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1684-count-the-number-of-consistent-strings.py",
+          "path": "DAA-Leetcode/1684-count-the-number-of-consistent-strings/1684-count-the-number-of-consistent-strings.py",
+          "sha": "00fde35b8855eddb1a7e3d3c2629d8f3b306fa59",
+          "lastSyncedAt": "2026-10-17T10:14:42.304Z"
         }
       ]
     },
