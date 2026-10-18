@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-17T10:16:57.474Z",
+  "updatedAt": "2026-10-18T10:53:26.079Z",
   "problems": [
     {
       "frontendId": "1",
@@ -704,6 +704,26 @@
           "path": "DAA-Leetcode/3727-maximum-alternating-sum-of-squares/3727-maximum-alternating-sum-of-squares.py",
           "sha": "26ebc3c6eab97d0c8887b52430b9642a36d23fde",
           "lastSyncedAt": "2026-10-13T04:17:00.562Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3731",
+      "title": "Find Missing Elements",
+      "slug": "find-missing-elements",
+      "problemName": "3731-find-missing-elements",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-missing-elements/",
+      "folderPath": "DAA-Leetcode/3731-find-missing-elements/",
+      "readmePath": "DAA-Leetcode/3731-find-missing-elements/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3731-find-missing-elements.py",
+          "path": "DAA-Leetcode/3731-find-missing-elements/3731-find-missing-elements.py",
+          "sha": "d20d044e3edd341284ebb2b3678b2963c2e0f43b",
+          "lastSyncedAt": "2026-10-18T10:53:26.079Z"
         }
       ]
     },
