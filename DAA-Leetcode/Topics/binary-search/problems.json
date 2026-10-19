@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "binary-search",
-    "name": "Binary Search"
+    "name": "Binary Search",
+    "tagId": "11"
   },
-  "updatedAt": "2026-10-08T09:06:17.051Z",
+  "updatedAt": "2026-10-19T03:41:10.105Z",
   "problems": [
     {
       "frontendId": "162",
@@ -103,6 +104,26 @@
           "path": "DAA-Leetcode/0852-peak-index-in-a-mountain-array/0852-peak-index-in-a-mountain-array.py",
           "sha": "d8ca4ef50a1b2d665060d0d221ad9191e04afea1",
           "lastSyncedAt": "2026-10-07T11:54:57.672Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2089",
+      "title": "Find Target Indices After Sorting Array",
+      "slug": "find-target-indices-after-sorting-array",
+      "problemName": "2089-find-target-indices-after-sorting-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-target-indices-after-sorting-array/",
+      "folderPath": "DAA-Leetcode/2089-find-target-indices-after-sorting-array/",
+      "readmePath": "DAA-Leetcode/2089-find-target-indices-after-sorting-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2089-find-target-indices-after-sorting-array.py",
+          "path": "DAA-Leetcode/2089-find-target-indices-after-sorting-array/2089-find-target-indices-after-sorting-array.py",
+          "sha": "d841139a7cf97118644bddadc53fba0d7e628ac8",
+          "lastSyncedAt": "2026-10-19T03:41:10.105Z"
         }
       ]
     }
