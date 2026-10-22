@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-10T11:04:14.068Z",
+  "updatedAt": "2026-10-22T04:47:41.218Z",
   "problems": [
     {
       "frontendId": "7",
@@ -64,6 +64,26 @@
           "path": "DAA-Leetcode/0441-arranging-coins/0441-arranging-coins.py",
           "sha": "451773b771a8635bbe48f1315fce682c3585ae0d",
           "lastSyncedAt": "2026-10-08T09:06:17.051Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "509",
+      "title": "Fibonacci Number",
+      "slug": "fibonacci-number",
+      "problemName": "0509-fibonacci-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/fibonacci-number/",
+      "folderPath": "DAA-Leetcode/0509-fibonacci-number/",
+      "readmePath": "DAA-Leetcode/0509-fibonacci-number/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0509-fibonacci-number.py",
+          "path": "DAA-Leetcode/0509-fibonacci-number/0509-fibonacci-number.py",
+          "sha": "fe37c60a5a984ddbb989c591186c540dbc164aa0",
+          "lastSyncedAt": "2026-10-22T04:47:41.218Z"
         }
       ]
     },
