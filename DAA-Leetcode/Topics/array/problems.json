@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-19T03:41:10.105Z",
+  "updatedAt": "2026-10-23T07:26:50.320Z",
   "problems": [
     {
       "frontendId": "1",
@@ -424,6 +424,26 @@
           "path": "DAA-Leetcode/1929-concatenation-of-array/1929-concatenation-of-array.py",
           "sha": "49af64d6068cc16c27678342a9b26942d1b38aea",
           "lastSyncedAt": "2026-09-16T12:57:01.859Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2006",
+      "title": "Count Number of Pairs With Absolute Difference K",
+      "slug": "count-number-of-pairs-with-absolute-difference-k",
+      "problemName": "2006-count-number-of-pairs-with-absolute-difference-k",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/",
+      "folderPath": "DAA-Leetcode/2006-count-number-of-pairs-with-absolute-difference-k/",
+      "readmePath": "DAA-Leetcode/2006-count-number-of-pairs-with-absolute-difference-k/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2006-count-number-of-pairs-with-absolute-difference-k.py",
+          "path": "DAA-Leetcode/2006-count-number-of-pairs-with-absolute-difference-k/2006-count-number-of-pairs-with-absolute-difference-k.py",
+          "sha": "f2435dde7537b95042bbbaa93bde7463c78759c9",
+          "lastSyncedAt": "2026-10-23T07:26:50.320Z"
         }
       ]
     },
