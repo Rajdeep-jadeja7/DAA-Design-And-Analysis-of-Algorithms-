@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-24T10:15:35.134Z",
+  "updatedAt": "2026-10-26T10:12:46.064Z",
   "problems": [
     {
       "frontendId": "1",
@@ -104,6 +104,26 @@
           "path": "DAA-Leetcode/0167-two-sum-ii-input-array-is-sorted/0167-two-sum-ii-input-array-is-sorted.py",
           "sha": "4d2dac6f738dae9e4fdbea23ebea82dbe6e77437",
           "lastSyncedAt": "2026-08-18T17:58:44.604Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "215",
+      "title": "Kth Largest Element in an Array",
+      "slug": "kth-largest-element-in-an-array",
+      "problemName": "0215-kth-largest-element-in-an-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
+      "folderPath": "DAA-Leetcode/0215-kth-largest-element-in-an-array/",
+      "readmePath": "DAA-Leetcode/0215-kth-largest-element-in-an-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0215-kth-largest-element-in-an-array.py",
+          "path": "DAA-Leetcode/0215-kth-largest-element-in-an-array/0215-kth-largest-element-in-an-array.py",
+          "sha": "f6dac04ed9bba8a8e3894ad6e22a638790c2847b",
+          "lastSyncedAt": "2026-10-26T10:12:46.064Z"
         }
       ]
     },
