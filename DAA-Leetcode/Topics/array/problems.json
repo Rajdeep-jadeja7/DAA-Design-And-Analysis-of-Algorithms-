@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-26T11:06:00.488Z",
+  "updatedAt": "2026-10-26T17:32:07.484Z",
   "problems": [
     {
       "frontendId": "1",
@@ -104,6 +104,26 @@
           "path": "DAA-Leetcode/0167-two-sum-ii-input-array-is-sorted/0167-two-sum-ii-input-array-is-sorted.py",
           "sha": "4d2dac6f738dae9e4fdbea23ebea82dbe6e77437",
           "lastSyncedAt": "2026-08-18T17:58:44.604Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "189",
+      "title": "Rotate Array",
+      "slug": "rotate-array",
+      "problemName": "0189-rotate-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-array/",
+      "folderPath": "DAA-Leetcode/0189-rotate-array/",
+      "readmePath": "DAA-Leetcode/0189-rotate-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0189-rotate-array.py",
+          "path": "DAA-Leetcode/0189-rotate-array/0189-rotate-array.py",
+          "sha": "cacd248b95123f1fe8bdded0c6e9f168cf937fb5",
+          "lastSyncedAt": "2026-10-26T17:32:07.484Z"
         }
       ]
     },
