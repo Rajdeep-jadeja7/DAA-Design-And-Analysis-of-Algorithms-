@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-24T10:15:35.134Z",
+  "updatedAt": "2026-10-26T09:21:39.529Z",
   "problems": [
     {
       "frontendId": "14",
@@ -384,6 +384,26 @@
           "path": "DAA-Leetcode/2011-final-value-of-variable-after-performing-operations/2011-final-value-of-variable-after-performing-operations.py",
           "sha": "81f8823d51f5e40464516c826fe6b4f07dff6ae5",
           "lastSyncedAt": "2026-10-15T05:00:09.043Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2380",
+      "title": "Time Needed to Rearrange a Binary String",
+      "slug": "time-needed-to-rearrange-a-binary-string",
+      "problemName": "2380-time-needed-to-rearrange-a-binary-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string/",
+      "folderPath": "DAA-Leetcode/2380-time-needed-to-rearrange-a-binary-string/",
+      "readmePath": "DAA-Leetcode/2380-time-needed-to-rearrange-a-binary-string/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2380-time-needed-to-rearrange-a-binary-string.py",
+          "path": "DAA-Leetcode/2380-time-needed-to-rearrange-a-binary-string/2380-time-needed-to-rearrange-a-binary-string.py",
+          "sha": "9fea99e8a75d4e97140d3984005ab435899c431c",
+          "lastSyncedAt": "2026-10-26T09:21:39.529Z"
         }
       ]
     },
