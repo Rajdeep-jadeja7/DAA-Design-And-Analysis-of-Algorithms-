@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-27T04:30:26.229Z",
+  "updatedAt": "2026-10-29T04:45:17.742Z",
   "problems": [
     {
       "frontendId": "1",
@@ -844,6 +844,26 @@
           "path": "DAA-Leetcode/3875-construct-uniform-parity-array-i/3875-construct-uniform-parity-array-i.py",
           "sha": "c9433a95987405b268f46c4991fa1dc9746c6dfb",
           "lastSyncedAt": "2026-09-02T04:47:13.599Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3898",
+      "title": "Find the Degree of Each Vertex",
+      "slug": "find-the-degree-of-each-vertex",
+      "problemName": "3898-find-the-degree-of-each-vertex",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-degree-of-each-vertex/",
+      "folderPath": "DAA-Leetcode/3898-find-the-degree-of-each-vertex/",
+      "readmePath": "DAA-Leetcode/3898-find-the-degree-of-each-vertex/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3898-find-the-degree-of-each-vertex.py",
+          "path": "DAA-Leetcode/3898-find-the-degree-of-each-vertex/3898-find-the-degree-of-each-vertex.py",
+          "sha": "b504a355918076138a71e685ec1a1f281ba55496",
+          "lastSyncedAt": "2026-10-29T04:45:17.742Z"
         }
       ]
     },
