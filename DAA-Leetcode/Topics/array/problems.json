@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-29T04:45:17.742Z",
+  "updatedAt": "2026-10-30T16:42:54.429Z",
   "problems": [
     {
       "frontendId": "1",
@@ -704,6 +704,26 @@
           "path": "DAA-Leetcode/3289-the-two-sneaky-numbers-of-digitville/3289-the-two-sneaky-numbers-of-digitville.py",
           "sha": "919c5028492d7cf295b1a82ff3f25ff3f15a4cc1",
           "lastSyncedAt": "2026-10-10T11:04:14.068Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3467",
+      "title": "Transform Array by Parity",
+      "slug": "transform-array-by-parity",
+      "problemName": "3467-transform-array-by-parity",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/transform-array-by-parity/",
+      "folderPath": "DAA-Leetcode/3467-transform-array-by-parity/",
+      "readmePath": "DAA-Leetcode/3467-transform-array-by-parity/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3467-transform-array-by-parity.py",
+          "path": "DAA-Leetcode/3467-transform-array-by-parity/3467-transform-array-by-parity.py",
+          "sha": "97d037bb6b8c6b61edb37240c774bf5d451341b2",
+          "lastSyncedAt": "2026-10-30T16:42:54.429Z"
         }
       ]
     },
