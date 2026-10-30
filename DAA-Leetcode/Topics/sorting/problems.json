@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-26T10:12:46.064Z",
+  "updatedAt": "2026-10-30T16:42:54.429Z",
   "problems": [
     {
       "frontendId": "215",
@@ -264,6 +264,26 @@
           "path": "DAA-Leetcode/2785-sort-vowels-in-a-string/2785-sort-vowels-in-a-string.py",
           "sha": "6ca6a2558a8eb4cc7118682c3c17744a67d3d6bb",
           "lastSyncedAt": "2026-10-14T06:05:57.687Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3467",
+      "title": "Transform Array by Parity",
+      "slug": "transform-array-by-parity",
+      "problemName": "3467-transform-array-by-parity",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/transform-array-by-parity/",
+      "folderPath": "DAA-Leetcode/3467-transform-array-by-parity/",
+      "readmePath": "DAA-Leetcode/3467-transform-array-by-parity/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3467-transform-array-by-parity.py",
+          "path": "DAA-Leetcode/3467-transform-array-by-parity/3467-transform-array-by-parity.py",
+          "sha": "97d037bb6b8c6b61edb37240c774bf5d451341b2",
+          "lastSyncedAt": "2026-10-30T16:42:54.429Z"
         }
       ]
     },
