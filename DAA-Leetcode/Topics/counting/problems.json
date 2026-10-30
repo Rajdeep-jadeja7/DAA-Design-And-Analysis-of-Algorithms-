@@ -5,7 +5,7 @@
     "name": "Counting",
     "tagId": "61062"
   },
-  "updatedAt": "2026-10-23T07:26:50.320Z",
+  "updatedAt": "2026-10-30T16:42:54.429Z",
   "problems": [
     {
       "frontendId": "383",
@@ -124,6 +124,26 @@
           "path": "DAA-Leetcode/2006-count-number-of-pairs-with-absolute-difference-k/2006-count-number-of-pairs-with-absolute-difference-k.py",
           "sha": "f2435dde7537b95042bbbaa93bde7463c78759c9",
           "lastSyncedAt": "2026-10-23T07:26:50.320Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3467",
+      "title": "Transform Array by Parity",
+      "slug": "transform-array-by-parity",
+      "problemName": "3467-transform-array-by-parity",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/transform-array-by-parity/",
+      "folderPath": "DAA-Leetcode/3467-transform-array-by-parity/",
+      "readmePath": "DAA-Leetcode/3467-transform-array-by-parity/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3467-transform-array-by-parity.py",
+          "path": "DAA-Leetcode/3467-transform-array-by-parity/3467-transform-array-by-parity.py",
+          "sha": "97d037bb6b8c6b61edb37240c774bf5d451341b2",
+          "lastSyncedAt": "2026-10-30T16:42:54.429Z"
         }
       ]
     },
