@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-31T15:49:50.048Z",
+  "updatedAt": "2026-11-01T14:20:19.022Z",
   "problems": [
     {
       "frontendId": "1",
@@ -244,6 +244,26 @@
           "path": "DAA-Leetcode/0442-find-all-duplicates-in-an-array/0442-find-all-duplicates-in-an-array.py",
           "sha": "e5976a192faffec5565e83a6f48efcbf42bb3922",
           "lastSyncedAt": "2026-09-18T13:29:23.944Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "453",
+      "title": "Minimum Moves to Equal Array Elements",
+      "slug": "minimum-moves-to-equal-array-elements",
+      "problemName": "0453-minimum-moves-to-equal-array-elements",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements/",
+      "folderPath": "DAA-Leetcode/0453-minimum-moves-to-equal-array-elements/",
+      "readmePath": "DAA-Leetcode/0453-minimum-moves-to-equal-array-elements/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0453-minimum-moves-to-equal-array-elements.py",
+          "path": "DAA-Leetcode/0453-minimum-moves-to-equal-array-elements/0453-minimum-moves-to-equal-array-elements.py",
+          "sha": "ad05c19f44f318dfe3286e6c6c16e6f43f7181c7",
+          "lastSyncedAt": "2026-11-01T14:20:19.022Z"
         }
       ]
     },
