@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-01T14:21:36.913Z",
+  "updatedAt": "2026-11-02T13:58:54.486Z",
   "problems": [
     {
       "frontendId": "1",
@@ -704,6 +704,26 @@
           "path": "DAA-Leetcode/3069-distribute-elements-into-two-arrays-i/3069-distribute-elements-into-two-arrays-i.py",
           "sha": "76bdca2ea79d8f7825fc6ff0c44bce3194f96a33",
           "lastSyncedAt": "2026-08-20T14:17:20.098Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3190",
+      "title": "Find Minimum Operations to Make All Elements Divisible by Three",
+      "slug": "find-minimum-operations-to-make-all-elements-divisible-by-three",
+      "problemName": "3190-find-minimum-operations-to-make-all-elements-divisible-by-three",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/",
+      "folderPath": "DAA-Leetcode/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/",
+      "readmePath": "DAA-Leetcode/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3190-find-minimum-operations-to-make-all-elements-divisible-by-three.py",
+          "path": "DAA-Leetcode/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/3190-find-minimum-operations-to-make-all-elements-divisible-by-three.py",
+          "sha": "5fb2c946e469e1fea20f54abc572f2a2c2884993",
+          "lastSyncedAt": "2026-11-02T13:58:54.486Z"
         }
       ]
     },
