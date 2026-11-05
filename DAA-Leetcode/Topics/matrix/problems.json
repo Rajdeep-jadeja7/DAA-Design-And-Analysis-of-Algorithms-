@@ -5,7 +5,7 @@
     "name": "Matrix",
     "tagId": "61053"
   },
-  "updatedAt": "2026-10-29T04:45:17.742Z",
+  "updatedAt": "2026-11-05T14:11:30.805Z",
   "problems": [
     {
       "frontendId": "832",
@@ -24,6 +24,26 @@
           "path": "DAA-Leetcode/0832-flipping-an-image/0832-flipping-an-image.py",
           "sha": "b0ce9a60efb47f83e515ee2dc60a48f4ea3e4e42",
           "lastSyncedAt": "2026-09-21T07:21:12.246Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1672",
+      "title": "Richest Customer Wealth",
+      "slug": "richest-customer-wealth",
+      "problemName": "1672-richest-customer-wealth",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/richest-customer-wealth/",
+      "folderPath": "DAA-Leetcode/1672-richest-customer-wealth/",
+      "readmePath": "DAA-Leetcode/1672-richest-customer-wealth/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1672-richest-customer-wealth.py",
+          "path": "DAA-Leetcode/1672-richest-customer-wealth/1672-richest-customer-wealth.py",
+          "sha": "4cbf40b57289aed41b35e19241b5e75ed5b8e5f7",
+          "lastSyncedAt": "2026-11-05T14:11:30.805Z"
         }
       ]
     },
