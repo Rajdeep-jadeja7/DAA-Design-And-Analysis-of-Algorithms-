@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-26T09:21:39.529Z",
+  "updatedAt": "2026-11-10T16:18:54.037Z",
   "problems": [
     {
       "frontendId": "14",
@@ -304,6 +304,26 @@
           "path": "DAA-Leetcode/1684-count-the-number-of-consistent-strings/1684-count-the-number-of-consistent-strings.py",
           "sha": "00fde35b8855eddb1a7e3d3c2629d8f3b306fa59",
           "lastSyncedAt": "2026-10-17T10:16:57.474Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1816",
+      "title": "Truncate Sentence",
+      "slug": "truncate-sentence",
+      "problemName": "1816-truncate-sentence",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/truncate-sentence/",
+      "folderPath": "DAA-Leetcode/1816-truncate-sentence/",
+      "readmePath": "DAA-Leetcode/1816-truncate-sentence/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1816-truncate-sentence.py",
+          "path": "DAA-Leetcode/1816-truncate-sentence/1816-truncate-sentence.py",
+          "sha": "93400ff1df534debe0b9b4ff97e9de4b8006607f",
+          "lastSyncedAt": "2026-11-10T16:18:54.037Z"
         }
       ]
     },
