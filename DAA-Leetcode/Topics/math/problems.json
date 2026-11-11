@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-02T13:58:54.486Z",
+  "updatedAt": "2026-11-11T13:27:03.198Z",
   "problems": [
     {
       "frontendId": "7",
@@ -384,6 +384,26 @@
           "path": "DAA-Leetcode/3875-construct-uniform-parity-array-i/3875-construct-uniform-parity-array-i.py",
           "sha": "c9433a95987405b268f46c4991fa1dc9746c6dfb",
           "lastSyncedAt": "2026-09-02T04:47:13.599Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3895",
+      "title": "Count Digit Appearances",
+      "slug": "count-digit-appearances",
+      "problemName": "3895-count-digit-appearances",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-digit-appearances/",
+      "folderPath": "DAA-Leetcode/3895-count-digit-appearances/",
+      "readmePath": "DAA-Leetcode/3895-count-digit-appearances/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3895-count-digit-appearances.py",
+          "path": "DAA-Leetcode/3895-count-digit-appearances/3895-count-digit-appearances.py",
+          "sha": "27d3eab70e497a77b8670e3d1b48ac90109366a3",
+          "lastSyncedAt": "2026-11-11T13:27:03.198Z"
         }
       ]
     }
