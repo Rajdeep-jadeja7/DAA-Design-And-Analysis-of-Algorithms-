@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-27T04:30:26.229Z",
+  "updatedAt": "2026-11-13T15:57:05.950Z",
   "problems": [
     {
       "frontendId": "19",
@@ -264,6 +264,26 @@
           "path": "DAA-Leetcode/2095-delete-the-middle-node-of-a-linked-list/2095-delete-the-middle-node-of-a-linked-list.py",
           "sha": "18ed67e915599706925b60e5a6ddccba27584d24",
           "lastSyncedAt": "2026-09-08T16:30:24.279Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2149",
+      "title": "Rearrange Array Elements by Sign",
+      "slug": "rearrange-array-elements-by-sign",
+      "problemName": "2149-rearrange-array-elements-by-sign",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rearrange-array-elements-by-sign/",
+      "folderPath": "DAA-Leetcode/2149-rearrange-array-elements-by-sign/",
+      "readmePath": "DAA-Leetcode/2149-rearrange-array-elements-by-sign/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2149-rearrange-array-elements-by-sign.py",
+          "path": "DAA-Leetcode/2149-rearrange-array-elements-by-sign/2149-rearrange-array-elements-by-sign.py",
+          "sha": "cc4e3cf01d34d5ff4c30631eb331759a586f804e",
+          "lastSyncedAt": "2026-11-13T15:57:05.950Z"
         }
       ]
     },
