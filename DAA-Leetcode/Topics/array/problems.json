@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-13T15:57:05.950Z",
+  "updatedAt": "2026-11-15T15:00:51.023Z",
   "problems": [
     {
       "frontendId": "1",
@@ -484,6 +484,26 @@
           "path": "DAA-Leetcode/1684-count-the-number-of-consistent-strings/1684-count-the-number-of-consistent-strings.py",
           "sha": "00fde35b8855eddb1a7e3d3c2629d8f3b306fa59",
           "lastSyncedAt": "2026-10-17T10:16:57.474Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1773",
+      "title": "Count Items Matching a Rule",
+      "slug": "count-items-matching-a-rule",
+      "problemName": "1773-count-items-matching-a-rule",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-items-matching-a-rule/",
+      "folderPath": "DAA-Leetcode/1773-count-items-matching-a-rule/",
+      "readmePath": "DAA-Leetcode/1773-count-items-matching-a-rule/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1773-count-items-matching-a-rule.py",
+          "path": "DAA-Leetcode/1773-count-items-matching-a-rule/1773-count-items-matching-a-rule.py",
+          "sha": "80eaaa383c0b311ec3776971e3ec3bcda5bf1c56",
+          "lastSyncedAt": "2026-11-15T15:00:51.023Z"
         }
       ]
     },
