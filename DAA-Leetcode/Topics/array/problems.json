@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-16T15:47:09.507Z",
+  "updatedAt": "2026-11-17T04:37:12.468Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1024,6 +1024,26 @@
           "path": "DAA-Leetcode/3668-restore-finishing-order/3668-restore-finishing-order.py",
           "sha": "3cb3e37ef56ac53cc1840a19c6b8340c0cf3d392",
           "lastSyncedAt": "2026-09-23T04:12:08.331Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3683",
+      "title": "Earliest Time to Finish One Task",
+      "slug": "earliest-time-to-finish-one-task",
+      "problemName": "3683-earliest-time-to-finish-one-task",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/earliest-time-to-finish-one-task/",
+      "folderPath": "DAA-Leetcode/3683-earliest-time-to-finish-one-task/",
+      "readmePath": "DAA-Leetcode/3683-earliest-time-to-finish-one-task/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3683-earliest-time-to-finish-one-task.py",
+          "path": "DAA-Leetcode/3683-earliest-time-to-finish-one-task/3683-earliest-time-to-finish-one-task.py",
+          "sha": "d529a0a1adb3ea089434ec5982da980ff1e8325a",
+          "lastSyncedAt": "2026-11-17T04:37:12.468Z"
         }
       ]
     },
