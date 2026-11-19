@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-16T15:47:09.507Z",
+  "updatedAt": "2026-11-19T04:00:53.433Z",
   "problems": [
     {
       "frontendId": "215",
@@ -144,6 +144,26 @@
           "path": "DAA-Leetcode/0455-assign-cookies/0455-assign-cookies.py",
           "sha": "a145902b89a47cb16a6ad5db0c1d284d0c07ec52",
           "lastSyncedAt": "2026-09-27T17:19:42.958Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1365",
+      "title": "How Many Numbers Are Smaller Than the Current Number",
+      "slug": "how-many-numbers-are-smaller-than-the-current-number",
+      "problemName": "1365-how-many-numbers-are-smaller-than-the-current-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/",
+      "folderPath": "DAA-Leetcode/1365-how-many-numbers-are-smaller-than-the-current-number/",
+      "readmePath": "DAA-Leetcode/1365-how-many-numbers-are-smaller-than-the-current-number/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1365-how-many-numbers-are-smaller-than-the-current-number.py",
+          "path": "DAA-Leetcode/1365-how-many-numbers-are-smaller-than-the-current-number/1365-how-many-numbers-are-smaller-than-the-current-number.py",
+          "sha": "413327c8e8702c7670dfa1b1bcf8a3ad413e06ec",
+          "lastSyncedAt": "2026-11-19T04:00:53.433Z"
         }
       ]
     },
