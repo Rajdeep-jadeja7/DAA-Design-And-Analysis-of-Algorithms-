@@ -5,8 +5,28 @@
     "name": "Counting Sort",
     "tagId": "61072"
   },
-  "updatedAt": "2026-10-09T06:22:21.334Z",
+  "updatedAt": "2026-11-19T04:00:53.433Z",
   "problems": [
+    {
+      "frontendId": "1365",
+      "title": "How Many Numbers Are Smaller Than the Current Number",
+      "slug": "how-many-numbers-are-smaller-than-the-current-number",
+      "problemName": "1365-how-many-numbers-are-smaller-than-the-current-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/",
+      "folderPath": "DAA-Leetcode/1365-how-many-numbers-are-smaller-than-the-current-number/",
+      "readmePath": "DAA-Leetcode/1365-how-many-numbers-are-smaller-than-the-current-number/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1365-how-many-numbers-are-smaller-than-the-current-number.py",
+          "path": "DAA-Leetcode/1365-how-many-numbers-are-smaller-than-the-current-number/1365-how-many-numbers-are-smaller-than-the-current-number.py",
+          "sha": "413327c8e8702c7670dfa1b1bcf8a3ad413e06ec",
+          "lastSyncedAt": "2026-11-19T04:00:53.433Z"
+        }
+      ]
+    },
     {
       "frontendId": "1833",
       "title": "Maximum Ice Cream Bars",
