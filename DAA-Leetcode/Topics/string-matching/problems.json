@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "string-matching",
-    "name": "String Matching"
+    "name": "String Matching",
+    "tagId": "61052"
   },
-  "updatedAt": "2026-08-25T05:15:58.747Z",
+  "updatedAt": "2026-11-20T07:40:48.946Z",
   "problems": [
     {
       "frontendId": "28",
@@ -23,6 +24,26 @@
           "path": "DAA-Leetcode/0028-find-the-index-of-the-first-occurrence-in-a-string/0028-find-the-index-of-the-first-occurrence-in-a-string.py",
           "sha": "3f627ab5b95c8ab53d248cdea5d6867751d881df",
           "lastSyncedAt": "2026-08-25T05:15:58.747Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2185",
+      "title": "Counting Words With a Given Prefix",
+      "slug": "counting-words-with-a-given-prefix",
+      "problemName": "2185-counting-words-with-a-given-prefix",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/counting-words-with-a-given-prefix/",
+      "folderPath": "DAA-Leetcode/2185-counting-words-with-a-given-prefix/",
+      "readmePath": "DAA-Leetcode/2185-counting-words-with-a-given-prefix/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2185-counting-words-with-a-given-prefix.py",
+          "path": "DAA-Leetcode/2185-counting-words-with-a-given-prefix/2185-counting-words-with-a-given-prefix.py",
+          "sha": "9dfa4520a39c91fa5c7e3f0be2fcb4cf471c9f10",
+          "lastSyncedAt": "2026-11-20T07:40:48.946Z"
         }
       ]
     }
