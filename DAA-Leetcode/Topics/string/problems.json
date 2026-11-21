@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-20T07:40:48.946Z",
+  "updatedAt": "2026-11-21T04:34:04.529Z",
   "problems": [
     {
       "frontendId": "14",
@@ -604,6 +604,26 @@
           "path": "DAA-Leetcode/3760-maximum-substrings-with-distinct-start/3760-maximum-substrings-with-distinct-start.py",
           "sha": "c8c7e7befb1ac57542645216ca5ac8b068f59e75",
           "lastSyncedAt": "2026-09-01T04:41:46.010Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3794",
+      "title": "Reverse String Prefix",
+      "slug": "reverse-string-prefix",
+      "problemName": "3794-reverse-string-prefix",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-string-prefix/",
+      "folderPath": "DAA-Leetcode/3794-reverse-string-prefix/",
+      "readmePath": "DAA-Leetcode/3794-reverse-string-prefix/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3794-reverse-string-prefix.py",
+          "path": "DAA-Leetcode/3794-reverse-string-prefix/3794-reverse-string-prefix.py",
+          "sha": "7c1e6eac26f7fb1be3faa9433a2216b7832b8347",
+          "lastSyncedAt": "2026-11-21T04:34:04.529Z"
         }
       ]
     }
