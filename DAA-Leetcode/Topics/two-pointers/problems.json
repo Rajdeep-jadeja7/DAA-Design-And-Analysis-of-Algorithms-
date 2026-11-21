@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-16T15:47:09.507Z",
+  "updatedAt": "2026-11-21T04:34:04.529Z",
   "problems": [
     {
       "frontendId": "19",
@@ -324,6 +324,26 @@
           "path": "DAA-Leetcode/3194-minimum-average-of-smallest-and-largest-elements/3194-minimum-average-of-smallest-and-largest-elements.py",
           "sha": "5743f47deae6269ec299c6a82f38c46070cc78a0",
           "lastSyncedAt": "2026-11-16T15:47:09.507Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3794",
+      "title": "Reverse String Prefix",
+      "slug": "reverse-string-prefix",
+      "problemName": "3794-reverse-string-prefix",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-string-prefix/",
+      "folderPath": "DAA-Leetcode/3794-reverse-string-prefix/",
+      "readmePath": "DAA-Leetcode/3794-reverse-string-prefix/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3794-reverse-string-prefix.py",
+          "path": "DAA-Leetcode/3794-reverse-string-prefix/3794-reverse-string-prefix.py",
+          "sha": "7c1e6eac26f7fb1be3faa9433a2216b7832b8347",
+          "lastSyncedAt": "2026-11-21T04:34:04.529Z"
         }
       ]
     },
