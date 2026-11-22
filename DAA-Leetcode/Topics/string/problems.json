@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-21T04:34:04.529Z",
+  "updatedAt": "2026-11-22T16:24:26.273Z",
   "problems": [
     {
       "frontendId": "14",
@@ -424,6 +424,26 @@
           "path": "DAA-Leetcode/2011-final-value-of-variable-after-performing-operations/2011-final-value-of-variable-after-performing-operations.py",
           "sha": "81f8823d51f5e40464516c826fe6b4f07dff6ae5",
           "lastSyncedAt": "2026-10-15T05:00:09.043Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2124",
+      "title": "Check if All A's Appears Before All B's",
+      "slug": "check-if-all-as-appears-before-all-bs",
+      "problemName": "2124-check-if-all-as-appears-before-all-bs",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/",
+      "folderPath": "DAA-Leetcode/2124-check-if-all-as-appears-before-all-bs/",
+      "readmePath": "DAA-Leetcode/2124-check-if-all-as-appears-before-all-bs/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2124-check-if-all-as-appears-before-all-bs.py",
+          "path": "DAA-Leetcode/2124-check-if-all-as-appears-before-all-bs/2124-check-if-all-as-appears-before-all-bs.py",
+          "sha": "7f0bc42b0f322ca04a8a9babc9f2126dda057979",
+          "lastSyncedAt": "2026-11-22T16:24:26.273Z"
         }
       ]
     },
