@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-19T04:00:53.433Z",
+  "updatedAt": "2026-11-25T09:39:22.994Z",
   "problems": [
     {
       "frontendId": "1",
@@ -324,6 +324,26 @@
           "path": "DAA-Leetcode/1684-count-the-number-of-consistent-strings/1684-count-the-number-of-consistent-strings.py",
           "sha": "00fde35b8855eddb1a7e3d3c2629d8f3b306fa59",
           "lastSyncedAt": "2026-10-17T10:16:57.474Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1832",
+      "title": "Check if the Sentence Is Pangram",
+      "slug": "check-if-the-sentence-is-pangram",
+      "problemName": "1832-check-if-the-sentence-is-pangram",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-the-sentence-is-pangram/",
+      "folderPath": "DAA-Leetcode/1832-check-if-the-sentence-is-pangram/",
+      "readmePath": "DAA-Leetcode/1832-check-if-the-sentence-is-pangram/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1832-check-if-the-sentence-is-pangram.py",
+          "path": "DAA-Leetcode/1832-check-if-the-sentence-is-pangram/1832-check-if-the-sentence-is-pangram.py",
+          "sha": "344537152af7be8e447ac7a33c1a35d524b2da5f",
+          "lastSyncedAt": "2026-11-25T09:39:22.994Z"
         }
       ]
     },
